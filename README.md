@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdallah El belkasy - aka Abda</h1>
+<h1 align="center">Hi 👋, I'm Abdallah El belkasy - aka AbdA</h1>
 <h3 align="center">A Computer Science student</h3>
 
 <p align="left"> <a href="https://twitter.com/abdaishere" target="blank"><img src="https://img.shields.io/twitter/follow/abdaishere?logo=twitter&style=for-the-badge" alt="abdaishere" /></a> </p>
