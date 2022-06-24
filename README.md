@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdaishere&show_icons=true&exclude_repo=Traino&theme=dark&hide_border=true&locale=en&layout=compact" alt="abdaishere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdaishere&show_icons=true&theme=dark&hide_border=true&locale=en" alt="abdaishere" /></p>
-
-<!--START_SECTION:activity-->
