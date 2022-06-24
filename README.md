@@ -11,6 +11,6 @@
 <a href="https://discord.gg/Abda#6422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abda#6422" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdaishere&show_icons=true&exclude_repo=Traino&theme=dark&hide_border=true&locale=en&layout=compact" alt="abdaishere" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdaishere&show_icons=true&exclude_repo=Traino&theme=dark&hide_border=true&locale=en&layout=compact" alt="abdaishere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdaishere&show_icons=true&theme=dark&hide_border=true&locale=en" alt="abdaishere" /></p>
