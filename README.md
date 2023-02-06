@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdallah El belkasy - aka AbdA</h1>
 <h3 align="center">I live to learn, grow and dream</h3>
+<h3 align="center">I am currently learning full stack using both rust and flutter</h3>
 
 <p align="left"> <a href="https://twitter.com/abdaishere" target="blank"><img src="https://img.shields.io/twitter/follow/abdaishere?logo=twitter&style=for-the-badge" alt="abdaishere" /></a> </p>
 
