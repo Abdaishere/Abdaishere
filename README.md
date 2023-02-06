@@ -2,8 +2,6 @@
 <h3 align="center">I live to learn, grow and dream</h3>
 <h3 align="center">I am currently learning full stack using both rust and flutter</h3>
 
-<p align="left"> <a href="https://twitter.com/abdaishere" target="blank"><img src="https://img.shields.io/twitter/follow/abdaishere?logo=twitter&style=for-the-badge" alt="abdaishere" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdaishere" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="abdaishere"/></a>
