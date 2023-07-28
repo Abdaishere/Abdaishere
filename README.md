@@ -6,7 +6,6 @@
 <p align="left">
 <a href="https://twitter.com/abdaishere" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="abdaishere"/></a>
 <a href="https://linkedin.com/in/abdallahelbelkasy" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abdallahelbelkasy"/></a>
-<a href="https://fb.com/abdallahe22" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="abdallahe22"/></a>
 <a href="https://discord.com/users/421742071523704832" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="AbdA#6422"/></a>
 </p>
 
