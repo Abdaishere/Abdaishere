@@ -22,8 +22,8 @@ Tools: Linux, Docker, Vim
 ### Fun Facts 
 
 - 🎵 Music producer in my free time
-  <img src="Assets/spaceman.gif" align="right" width="8%"/>
-- 💪 Bodybuilding enthusiast 
+  <img src="Assets/spaceman.gif" align="right" width="10%"/>
+- 💪 Bodybuilding enthusiast
 - ⌨️ Speed typing
 - 📚 Avid reader and podcast listener
 
