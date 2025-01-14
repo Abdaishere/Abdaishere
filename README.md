@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.png" alt="GitHub Banner" />
 
 <h1 align="center"><br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>  I'm Abdallah (AbdA) El Belkasy</h1>
 <h3 align="center">Software engineer who lives to learn, build, and dream big 🚀</h3>
