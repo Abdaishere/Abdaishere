@@ -1,15 +1,7 @@
 <h1 align="center">
-      <kbd>
-        <img src="Ups.gif" width="50px" height="50px" />
-    </kbd>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="AbdA.png" alt="GitHub Banner" width="150%" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <kbd>
-        <img src="Ups.gif" width="50px" height="50px" />
-    </kbd>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-  <br>  I'm Abdallah (AbdA) El Belkasy
+      <img src="Ups.gif"/> <img src="AbdA.png" alt="GitHub Banner" width="50%" /> <img src="Ups.gif"/>
+      <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+      <br>  I'm Abdallah (AbdA) El Belkasy
 </h1>
 <h3 align="center">Software engineer who lives to learn, build, and dream big 🚀</h3>
 
