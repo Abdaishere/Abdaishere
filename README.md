@@ -12,17 +12,21 @@
 - 🎯 Currently exploring full-stack development
 - 🌟 Passionate about distributed systems, game development, and building things that matter
 
-### Tech Stack 💻 
+### Tech Stack 💻
 
 ```yaml
 Languages: Rust, C++, Java, JavaScript, Dart, Python
 Tools: Linux, Docker, Vim
 ```
 
-### Fun Facts 
+### Fun Facts
 
 - 🎵 Music producer in my free time
+<<<<<<< HEAD
   <img src="Assets/spaceman.gif" align="right" width="10%"/>
+=======
+  <img src="Assets/planet.gif" align="right" width="8%"/>
+>>>>>>> e39542f (gif optimization)
 - 💪 Bodybuilding enthusiast
 - ⌨️ Speed typing
 - 📚 Avid reader and podcast listener
