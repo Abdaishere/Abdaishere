@@ -1,6 +1,6 @@
 <h1 align="center">
       <div> <img src="Assets/lefts.gif" width="10%"/> <img src="Assets/AbdA.png" alt="GitHub Banner" width="50%" /> <img src="Assets/right.gif" width="10%"/></div>
-      <div> <img src="Assets/alien_1.gif" width="60px"/> <img src="Assets/alien_2.gif" width="60px"/> <img src="Assets/alien_3.gif" width="60px"/> <img src="Assets/alien_4.gif" width="60px"/> </div>
+      <div> <img src="Assets/alien_1.gif" width="6%"/> <img src="Assets/alien_2.gif" width="6%"/> <img src="Assets/alien_3.gif" width="6%"/> <img src="Assets/alien_4.gif" width="6%"/> </div>
       Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
       <br>  I'm Abdallah (AbdA) El Belkasy
 </h1>
@@ -22,7 +22,7 @@ Tools: Linux, Docker, Vim
 ### Fun Facts
 
 - 🎵 Music producer in my free time
-  <img src="Assets/planet.gif" align="right" width="8%"/>
+  <img src="Assets/planet.gif" align="right" width="10%"/>
 - 💪 Bodybuilding enthusiast
 - ⌨️ Speed typing
 - 📚 Avid reader and podcast listener
