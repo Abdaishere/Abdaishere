@@ -9,8 +9,8 @@
 ### About Me 🎮
 
 - 🎓 Computer Science graduate from Cairo University
-- 🎯 Currently exploring full-stack development
-- 🌟 Passionate about distributed systems, game development, and building things that matter
+- 🎯 Currently exploring front-end development
+- 🌟 Passionate about distributed systems, web development, and building things that matter
 
 ### Tech Stack 💻
 
