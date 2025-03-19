@@ -1,5 +1,5 @@
 <h1 align="center">
-      <div> <img src="Assets/lefts.gif" width="10%"/> <img src="Assets/AbdA.jpg" alt="GitHub Banner" width="50%" /> <img src="Assets/right.gif" width="10%"/></div>
+      <div> <! img src="Assets/lefts.gif" width="10%"/> <img src="Assets/AbdA.jpg" alt="GitHub Banner" width="50%" /> <! img src="Assets/right.gif" width="10%"/></div>
       <div> <img src="Assets/alien_1.gif" width="6%"/> <img src="Assets/alien_2.gif" width="6%"/> <img src="Assets/ferris.gif" width="7%"/> <img src="Assets/alien_3.gif" width="6%"/> <img src="Assets/alien_4.gif" width="6%"/> </div>
       Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
       <br>  I'm Abdallah (AbdA) El Belkasy
