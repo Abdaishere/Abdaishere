@@ -8,18 +8,19 @@
 
 </div>
 
-```ansi
-[2mLast login: today, from a mechanical keyboard that woke up the neighbors[0m
+```diff
+  Last login: today, from a mechanical keyboard that woke up the neighbors
 
-[1;92m █████╗  ██████╗  ██████╗   █████╗[0m
-[1;92m██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗[0m
-[1;92m███████║ ██████╔╝ ██║  ██║ ███████║[0m
-[1;92m██╔══██║ ██╔══██╗ ██║  ██║ ██╔══██║[0m
-[1;92m██║  ██║ ██████╔╝ ██████╔╝ ██║  ██║[0m
-[1;92m╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝  ╚═╝[0m
++  █████╗  ██████╗  ██████╗   █████╗
++ ██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗
++ ███████║ ██████╔╝ ██║  ██║ ███████║
++ ██╔══██║ ██╔══██╗ ██║  ██║ ██╔══██║
++ ██║  ██║ ██████╔╝ ██████╔╝ ██║  ██║
++ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝  ╚═╝
 
-[93mMOTD:[0m this machine hosts fun projects only.
-      serious code lives elsewhere and [33msigned an NDA.[0m
+@@ MOTD @@
+  this machine hosts fun projects only.
+- serious code lives elsewhere and signed an NDA.
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Abdaishere&style=flat-square&color=00ff41&label=you+are+visitor+number" alt="visitor counter">
@@ -29,29 +30,16 @@
 
 ## `abda@dxb:~$ whoami`
 
-```ansi
-[97mabda[0m
-uid=[92m2002[0m(abda) gid=[92m1337[0m(fun-projects) groups=[32mengineers,producers,lifters,fast-typists[0m
+```properties
+abda = present
+uid = 2002 (abda)
+gid = 1337 (fun-projects)
+groups = engineers, producers, lifters, fast-typists
 ```
 
 ## `abda@dxb:~$ neofetch`
 
-```ansi
-                  [97mabda@dxb[0m
-[1;92m   ▀▄     ▄▀      [0m-----------
-[1;92m    ▀▄   ▄▀       [0m[92mOS:[0m Human 1.0 (Cairo build, Dubai patch)
-[1;92m   ▄█▀███▀█▄      [0m[92mHost:[0m Dubai, UAE (UTC+4)
-[1;92m  █▀███████▀█     [0m[92mKernel:[0m CS degree, Cairo University
-[1;92m  █ █▀▀▀▀▀█ █     [0m[92mUptime:[0m since 2002, zero reboots
-[1;92m     ▀▀ ▀▀        [0m[92mCMOS:[0m born 2002, still holding charge
-[33m   < hello. >     [0m[92mShell:[0m whichever has vim keybindings
-                  [92mDay process:[0m software engineer
-                  [92mNight process:[0m music producer
-                  [92mDaemons:[0m gym, books, podcasts
-                  [92mWPM:[0m yes
-                  [92mPackages:[0m rust cpp java kotlin js dart
-                            python flutter godot docker git
-```
+<img src="Assets/neofetch.svg" alt="neofetch identity panel with pixel invader" width="100%">
 
 <div align="center">
 
@@ -59,82 +47,83 @@ uid=[92m2002[0m(abda) gid=[92m1337[0m(fun-projects) groups=[32mengineers,pr
 
 </div>
 
-```ansi
-[91m     _~^~^~_[0m
-[91m \) /  o o  \ (/   [0m  the crab stays.
-[91m   '_   -   _'     [0m  the crab has seniority.
-[91m   | '-----' |[0m
+```diff
+-      _~^~^~_
+-  \) /  o o  \ (/     the crab stays.
+-    '_   -   _'       the crab has seniority.
+-    | '-----' |
 ```
 
 ## `abda@dxb:~$ ls ~/fun-projects`
 
-```ansi
-[91mls: output does not fit on one screen[0m
-[93mhint:[0m the shelves are right below this readme. compilers, bots, trains,
-      a very proud B-Tree. take whatever you like, [92mstar what you love[0m
+```diff
+- ls: output does not fit on one screen
+@@ hint @@
+  the shelves are right below this readme. compilers, bots, trains,
++ a very proud B-Tree. take whatever you like, star what you love
 ```
 
 ## `abda@dxb:~/fun-projects$ cat .secrets`
 
-```ansi
-[91mcat: .secrets: permission denied[0m
+```diff
+- cat: .secrets: permission denied
 ```
 
-```ansi
-[97mabda@dxb:~/fun-projects$ [0msudo cat .secrets
-[2m[sudo] password for abda:[0m
+```diff
+  abda@dxb:~/fun-projects$ sudo cat .secrets
+  [sudo] password for abda:
 
-[92m1.[0m the gym playlist is 40% tracks I produced myself. nobody can stop me
-[92m2.[0m speed typing is not a skill, it is a coping mechanism for slow compilers
-[92m3.[0m there is a whole game in a private repo. the aliens are beta testing it
-[92m4.[0m bench press: [91m[REDACTED UNDER PROTOCOL 7: HE ASKED US NICELY][0m
-[92m5.[0m known weakness: [91m████████[0m (nice try)
++ 1. the gym playlist is 40% tracks I produced myself. nobody can stop me
++ 2. speed typing is not a skill, it is a coping mechanism for slow compilers
++ 3. there is a whole game in a private repo. the aliens are beta testing it
+- 4. bench press: [REDACTED UNDER PROTOCOL 7: HE ASKED US NICELY]
+- 5. known weakness: ████████ (nice try)
 ```
 
 <details>
 <summary>📁 <code>cat /honeypot/passwords.txt</code> (DO NOT OPEN)</summary>
 <br>
 
-```ansi
-you opened it. [93mbold.[0m
-the incident response team is one guy and [33mhe is at the gym.[0m
-password list, as promised:
+```diff
+  you opened it. bold.
+  the incident response team is one guy and he is at the gym.
+  password list, as promised:
 
-[92m1.[0m [97mhunter2[0m
++ 1. hunter2
 
-[1;92m   ▀▄ ▄▀[0m
-[1;92m  ▄█▀█▀█▄[0m     you win one (1) alien.
-[1;92m  █ ▀▀▀ █[0m     spend it wisely.
-[1;92m   ▀▀ ▀▀[0m
++    ▀▄ ▄▀
++   ▄█▀█▀█▄     you win one (1) alien.
++   █ ▀▀▀ █     spend it wisely.
++    ▀▀ ▀▀
 ```
 
 </details>
 
 ## `abda@dxb:~$ crontab -l`
 
-```ansi
-[2m# m   h    dom mon dow   command[0m
-[33m  0   6    *   *   1-6   [0m[32mgym --split=push-pull-legs --no-skip-leg-day[0m
-[33m  30  8    *   *   1-5   [0m[32mcode --mode=engineer --coffee=required[0m
-[33m  0   19   *   *   *     [0m[32mGYM.EXE --evening-slot[0m
-[33m  0   19   *   *   *     [0m[32mSTUDIO.EXE --evening-slot   [0m[91m# CONFLICT: both claim 19:00, loser gets 21:00[0m
-[33m  0   21   *   *   *     [0m[32mdaw --open --promise="just one loop" --actual=3h[0m
-[33m  0   23   *   *   *     [0m[32mbook --pages=20 || book --pages=5 --honest[0m
-[33m  59  23   *   *   *     [0m[32mgit push origin life --force-with-lease[0m
-[33m  *   *    *   *   *     [0m[32mtyping-test --silent --flex-only-if-above-120[0m
+```bash
+# m   h    dom mon dow   command
+  0   6    *   *   1-6   gym --split=push-pull-legs --no-skip-leg-day
+  30  8    *   *   1-5   code --mode=engineer --coffee=required
+  0   19   *   *   *     GYM.EXE --evening-slot
+  0   19   *   *   *     STUDIO.EXE --evening-slot   # CONFLICT: both claim 19:00, loser gets 21:00
+  0   21   *   *   *     daw --open --promise="just one loop" --actual=3h
+  0   23   *   *   *     book --pages=20 || book --pages=5 --honest
+  59  23   *   *   *     git push origin life --force-with-lease
+  *   *    *   *   *     typing-test --silent --flex-only-if-above-120
 ```
 
 ## `abda@dxb:~$ journalctl -u abda --since 2002`
 
-```ansi
-[32m[2002.██.██][0m  subject deployed to Cairo. loud from day one
-[32m[20██.██.██][0m  first computer. the power button click was addictive
-[32m[201█.██.██][0m  learns what a pointer is. subject is never the same
-[32m[2019.12.21][0m  joins github. first commit is a bot, obviously
-[32m[202█.██.██][0m  graduates Cairo University, computer science
-[32m[202█.██.██][0m  discovers the gym. variables get heavier
-[32m[2026.██.██][0m  relocated to Dubai node. sand patch applied successfully
-[93m[NOW][0m         writing this readme instead of finishing a side project
+```diff
+  [2002.██.██]  subject deployed to Cairo. loud from day one
+  [20██.██.██]  first computer. the power button click was addictive
+  [201█.██.██]  learns what a pointer is. subject is never the same
+  [2019.12.21]  joins github. first commit is a bot, obviously
+  [202█.██.██]  graduates Cairo University, computer science
+  [202█.██.██]  discovers the gym. variables get heavier
+  [2026.██.██]  relocated to Dubai node. sand patch applied successfully
++ [NOW]         writing this readme instead of finishing a side project
 ```
 
 ## `abda@dxb:~$ man abda`
@@ -143,46 +132,45 @@ password list, as promised:
 <summary><b>ABDA(1) &nbsp;&nbsp; Fun Projects Manual &nbsp;&nbsp; click to read the manual page</b></summary>
 <br>
 
-```ansi
-[2mABDA(1)                     Fun Projects Manual                     ABDA(1)[0m
+```text
+ABDA(1)                     Fun Projects Manual                     ABDA(1)
 
-[93mNAME[0m
+NAME
        abda - software engineer, music producer, progressive overloader
 
-[93mSYNOPSIS[0m
+SYNOPSIS
        abda [--code LANG] [--lift PLATES] [--produce BPM] [--read PAGES]
 
-[93mDESCRIPTION[0m
+DESCRIPTION
        Abdallah El Belkasy. Known in the wild as AbdA. Computer science
        graduate from Cairo University. Compiled in Cairo, currently
        deployed in Dubai on UTC+4. Ships software by day and drum
        patterns by night. This GitHub instance is his arcade cabinet,
        stocked with compilers, bots, trains and one very proud B-Tree.
 
-[93mOPTIONS[0m
-       [32m--code LANG[0m
+OPTIONS
+       --code LANG
               accepts rust, c++, java, kotlin, javascript, dart, python.
               rust invocations may include unsolicited crab facts.
 
-       [32m--lift PLATES[0m
+       --lift PLATES
               increments monotonically. never returns early.
 
-       [32m--produce BPM[0m
+       --produce BPM
               opens the DAW. the "one loop" promise is decorative.
 
-       [32m--type[0m
+       --type
               no arguments. it is simply fast.
 
-[93mEXIT STATUS[0m
+EXIT STATUS
        does not exit. see crontab(1), the 23:59 entry.
 
-[93mBUGS[0m
+BUGS
        cannot pass an unfinished side project without starting a new one.
-       marked [91mWONTFIX[0m by the maintainer.
+       marked WONTFIX by the maintainer.
 
-[93mSEE ALSO[0m
+SEE ALSO
        linkedin(1), twitter(1), discord(1), gym(8)
-
 ```
 
 </details>
@@ -201,9 +189,9 @@ password list, as promised:
 
 ## `abda@dxb:~$ top -p $(pgrep snake)`
 
-```ansi
-[2mPID    USER   COMMAND         STATUS[0m
-[33m1337[0m   abda   [32msnake.service[0m   [92meating my contributions. do not disturb.[0m
+```diff
+  PID    USER   COMMAND         STATUS
++ 1337   abda   snake.service   eating my contributions. do not disturb.
 ```
 
 <div align="center">
@@ -218,62 +206,63 @@ password list, as promised:
 
 ## `abda@dxb:~$ sudo apt install free-time`
 
-```ansi
-Reading package lists... [92mdone[0m
-[91mE: Unable to locate package free-time[0m
-[91mE:[0m closest match is '[32mgym[0m' which is already the newest version
+```diff
++ Reading package lists... done
+- E: Unable to locate package free-time
+- E: closest match is 'gym' which is already the newest version
 
-[97mabda@dxb:~$ [0msudo make me a sandwich
-[2m[sudo] password for abda:[0m
-fine. one sandwich. it is chicken and rice. [33mit is always chicken and rice.[0m
+  abda@dxb:~$ sudo make me a sandwich
+  [sudo] password for abda:
++ fine. one sandwich. it is chicken and rice. it is always chicken and rice.
 
-[97mabda@dxb:~$ [0mtouch grass
-touch: 'grass' created successfully [93m(Dubai edition: touch sand)[0m
+  abda@dxb:~$ touch grass
++ touch: 'grass' created successfully (Dubai edition: touch sand)
 
-[97mabda@dxb:~$ [0mwork-life-balance
-[91mbash: work-life-balance: command not found[0m
-did you mean: [32mgym && code && music && repeat[0m
+  abda@dxb:~$ work-life-balance
+- bash: work-life-balance: command not found
+@@ did you mean @@
++ gym && code && music && repeat
 ```
 
 ## `abda@dxb:~$ history | tail`
 
-```ansi
-  [33m501[0m  git commit -m "fix"
-  [33m502[0m  git commit -m "actually fix"
-  [33m503[0m  git commit -m "ok NOW it works. final. v2. REAL"
-  [33m504[0m  vim track_final_master_bounce_3.md
-  [33m505[0m  :q
-  [33m506[0m  :q!
-  [33m507[0m  ok that was the shell not vim
-  [33m508[0m  cargo build --release && gym     [2m# the build finishes when I do[0m
-  [33m509[0m  rm -rf node_modules              [2m# a small funeral, as a treat[0m
-  [33m510[0m  history | tail                   [2m# observing myself. it never ends well[0m
+```bash
+  501  git commit -m "fix"
+  502  git commit -m "actually fix"
+  503  git commit -m "ok NOW it works. final. v2. REAL"
+  504  vim track_final_master_bounce_3.md
+  505  :q
+  506  :q!
+  507  ok that was the shell not vim
+  508  cargo build --release && gym    # the build finishes when I do
+  509  rm -rf node_modules             # a small funeral, as a treat
+  510  history | tail                  # observing myself. it never ends well
 ```
 
 <details>
 <summary>⚠️ <b>DO NOT PRESS</b></summary>
 <br>
 
-```ansi
-[91m*** FATAL EXCEPTION 0E : LEG_DAY_HAS_OCCURRED ***[0m
-[91mstop code: 0xDEADL1F7[0m
+```diff
+- *** FATAL EXCEPTION 0E : LEG_DAY_HAS_OCCURRED ***
+- stop code: 0xDEADL1F7
 
-A problem has been detected: [93mquadriceps unresponsive[0m
-stack trace: [32msquat() -> squat() -> squat() -> [0m[91mregret()[0m
+  A problem has been detected: quadriceps unresponsive
+  stack trace: squat() -> squat() -> squat() -> regret()
 
-Press any key to reboot.
-[2mYour monitor does not have keys.[0m
-[97mExactly.[0m
+  Press any key to reboot.
+  Your monitor does not have keys.
++ Exactly.
 ```
 
 </details>
 
 ## `abda@dxb:~$ ping abda --all-interfaces`
 
-```ansi
-dialing... [33mATDT 4217-4207-1523-7048-32[0m
-[2m(yes, that phone number is my actual Discord ID. the modem knows.)[0m
-[92m4 interfaces up, 0% packet loss,[0m replies within one day usually
+```diff
+  dialing... ATDT 4217-4207-1523-7048-32
+  (yes, that phone number is my actual Discord ID. the modem knows.)
++ 4 interfaces up, 0% packet loss, replies within one day usually
 ```
 
 <div align="center">
@@ -287,12 +276,12 @@ dialing... [33mATDT 4217-4207-1523-7048-32[0m
 
 ## `abda@dxb:~$ exit`
 
-```ansi
-[2mlogout[0m
-Saving session state... [92mdone[0m
-Stopping music daemon... [93mrefused, one more loop[0m
-[1;92mstar something on your way out. the mainframe remembers who did.[0m
-[91mConnection to abda closed.[0m
+```diff
+  logout
++ Saving session state... done
+- Stopping music daemon... refused, one more loop
++ star something on your way out. the mainframe remembers who did.
+- Connection to abda closed.
 ```
 
 <div align="center">
