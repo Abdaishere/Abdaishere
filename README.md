@@ -57,9 +57,14 @@ uid=2002(abda) gid=1337(fun-projects) groups=engineers,producers,lifters,fast-ty
 
 <img src="https://skillicons.dev/icons?i=rust,cpp,java,kotlin,js,dart,py,flutter,godot,html,css,linux,docker,git,vim&theme=dark" alt="tech stack icons">
 
-<sub><img src="Assets/ferris.gif" width="40" alt="ferris the crab"> the crab stays. the crab has seniority.</sub>
-
 </div>
+
+```console
+     _~^~^~_
+ \) /  o o  \ (/     the crab stays.
+   '_   -   _'       the crab has seniority.
+   | '-----' |
+```
 
 ## `abda@dxb:~$ ls ~/fun-projects`
 
@@ -96,9 +101,12 @@ the incident response team is one guy and he is at the gym.
 password list, as promised:
 
 1. hunter2
-```
 
-<div align="center"><img src="Assets/alien_2.gif" width="28" alt="reward alien"> <sub>you win one (1) alien. spend it wisely.</sub></div>
+   ▀▄ ▄▀
+  ▄█▀█▀█▄     you win one (1) alien.
+  █ ▀▀▀ █     spend it wisely.
+   ▀▀ ▀▀
+```
 
 </details>
 
