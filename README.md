@@ -23,11 +23,7 @@ MOTD: this machine hosts fun projects only.
       you are visitor number:
 ```
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Abdaishere&color=00FF41&style=flat-square&label=terminal+sessions" alt="visitor counter">
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Abdaishere&style=flat-square&color=00ff41&label=session" alt="visitor counter">
 
 > `man abda | head -3` for the humans in a hurry: I'm Abdallah El Belkasy, AbdA for short. Software engineer in Dubai, CS grad from Cairo University, music producer after dark. Everything below is the long version, in the only format this machine respects.
 
@@ -40,26 +36,22 @@ uid=2002(abda) gid=1337(fun-projects) groups=engineers,producers,lifters,fast-ty
 
 ## `abda@dxb:~$ neofetch`
 
-<img src="Assets/AbdA.jpg" align="right" width="260" alt="photo of AbdA">
-
 ```console
-            .---.            abda@dxb
-           /     \           -----------
-          | () () |          OS: Human 1.0 (Cairo build, Dubai patch)
-           \  ^  /           Host: Dubai, UAE (UTC+4)
-            |||||            Kernel: CS degree, Cairo University
-            |||||            Uptime: since 2002, zero reboots
-                             CMOS battery: manufactured 2002, still full charge
-                             Shell: whichever has vim keybindings
-                             Day process: software engineer
-                             Night process: music producer
-                             Background daemons: gym, books, podcasts
-                             WPM: yes
-                             Packages: rust cpp java kotlin js dart
-                                       python flutter godot docker git
+    .---.       abda@dxb
+   /     \      -----------
+  | () () |     OS: Human 1.0 (Cairo build, Dubai patch)
+   \  ^  /      Host: Dubai, UAE (UTC+4)
+    |||||       Kernel: CS degree, Cairo University
+    |||||       Uptime: since 2002, zero reboots
+                CMOS: born 2002, still holding charge
+                Shell: whichever has vim keybindings
+                Day process: software engineer
+                Night process: music producer
+                Daemons: gym, books, podcasts
+                WPM: yes
+                Packages: rust cpp java kotlin js dart
+                          python flutter godot docker git
 ```
-
-<br clear="right">
 
 <div align="center">
 
@@ -69,33 +61,13 @@ uid=2002(abda) gid=1337(fun-projects) groups=engineers,producers,lifters,fast-ty
 
 </div>
 
-## `abda@dxb:~$ cd fun-projects && ls -la`
+## `abda@dxb:~$ ls ~/fun-projects`
 
 ```console
-total 14 directories, 0 regrets
-drwxr-xr-x  abda fun  .          # you are here
-drwxr-xr-x  abda fun  ..         # no going back
--rw-r--r--  abda fun  README.md  # you are reading it
+ls: output does not fit on one screen
+hint: the shelves are right below this readme. compilers, bots, trains,
+      a very proud B-Tree. take whatever you like, star what you love
 ```
-
-opening the interesting ones by hand. commentary included, free of charge.
-
-| perms | file | lang | field notes |
-|---|---|---|---|
-| `drwx--x--x` | [`E-Jam/`](https://github.com/Abdaishere/E-Jam) | Dart | network testing and monitoring. watches packets so I do not have to |
-| `drwx--x--x` | [`KinectDepthImage/`](https://github.com/Abdaishere/KinectDepthImage) | Processing | Kinect depth visualizer. three whole stars. basically famous |
-| `drwx--x--x` | [`Tiny-C-Compiler/`](https://github.com/Abdaishere/Tiny-C-Compiler) | C++ | wrote a compiler to finally win an argument with one |
-| `drwx--x--x` | [`Fuzzy-Logic-Toolbox/`](https://github.com/Abdaishere/Fuzzy-Logic-Toolbox) | Java | logic, but it shrugs. very relatable math |
-| `drwx--x--x` | [`Traino/`](https://github.com/Abdaishere/Traino) | Python | Django train booking. the trains run on my code now. pray |
-| `drwx--x--x` | [`mp3-and-png-to-pptx/`](https://github.com/Abdaishere/mp3-and-png-to-pptx) | Python | turns songs and images into slides. built it once, saved hours forever |
-| `drwx--x--x` | [`News-App/`](https://github.com/Abdaishere/News-App) | Kotlin | news reader. delivers bad news in a nice font |
-| `drwx--x--x` | [`Shab3ni/`](https://github.com/Abdaishere/Shab3ni) | Kotlin | food ordering app. the name means "feed me" and it means it |
-| `drwx--x--x` | [`CPU-Scheduler-Simulator/`](https://github.com/Abdaishere/CPU-Scheduler-Simulator) | Java | simulates a CPU juggling tasks. autobiographical |
-| `drwx--x--x` | [`Lempel-Ziv-Welch/`](https://github.com/Abdaishere/Lempel-Ziv-Welch) | Java | LZW compression. this row could have been shorter |
-| `drwx--x--x` | [`BTree/`](https://github.com/Abdaishere/BTree) | C++ | a B-Tree. planted it myself. self-balancing, unlike me before coffee |
-| `drwx--x--x` | [`-hipbot/`](https://github.com/Abdaishere/-hipbot) | Python | Discord bot. starts with a dash so half of unix tools fear it |
-| `drwx--x--x` | [`Calculator/`](https://github.com/Abdaishere/Calculator) | HTML/JS | a calculator. every arcade needs a coin slot |
-| `drwx--x--x` | [`contribution-art/`](https://github.com/Abdaishere/contribution-art) | Git | I drew space invaders in my commit graph. scroll my years, say hi |
 
 ## `abda@dxb:~/fun-projects$ cat .secrets`
 
