@@ -8,47 +8,48 @@
 
 </div>
 
-```text
-Last login: today, from a mechanical keyboard that woke up the neighbors
+```ansi
+[2mLast login: today, from a mechanical keyboard that woke up the neighbors[0m
 
- █████╗  ██████╗  ██████╗   █████╗
-██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗
-███████║ ██████╔╝ ██║  ██║ ███████║
-██╔══██║ ██╔══██╗ ██║  ██║ ██╔══██║
-██║  ██║ ██████╔╝ ██████╔╝ ██║  ██║
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝  ╚═╝
+[1;92m █████╗  ██████╗  ██████╗   █████╗[0m
+[1;92m██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗[0m
+[1;92m███████║ ██████╔╝ ██║  ██║ ███████║[0m
+[1;92m██╔══██║ ██╔══██╗ ██║  ██║ ██╔══██║[0m
+[1;92m██║  ██║ ██████╔╝ ██████╔╝ ██║  ██║[0m
+[1;92m╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝  ╚═╝[0m
 
-MOTD: this machine hosts fun projects only.
-      serious code lives elsewhere and signed an NDA.
+[93mMOTD:[0m this machine hosts fun projects only.
+      serious code lives elsewhere and [33msigned an NDA.[0m
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Abdaishere&style=flat-square&color=00ff41&label=you+are+visitor+number" alt="visitor counter">
 
+> [!TIP]
 > `man abda | head -3` for the humans in a hurry: I'm Abdallah El Belkasy, AbdA for short. Software engineer in Dubai, CS grad from Cairo University, music producer after dark. Everything below is the long version, in the only format this machine respects.
 
 ## `abda@dxb:~$ whoami`
 
-```console
-abda
-uid=2002(abda) gid=1337(fun-projects) groups=engineers,producers,lifters,fast-typists
+```ansi
+[97mabda[0m
+uid=[92m2002[0m(abda) gid=[92m1337[0m(fun-projects) groups=[32mengineers,producers,lifters,fast-typists[0m
 ```
 
 ## `abda@dxb:~$ neofetch`
 
-```console
-                  abda@dxb
-   ▀▄     ▄▀      -----------
-    ▀▄   ▄▀       OS: Human 1.0 (Cairo build, Dubai patch)
-   ▄█▀███▀█▄      Host: Dubai, UAE (UTC+4)
-  █▀███████▀█     Kernel: CS degree, Cairo University
-  █ █▀▀▀▀▀█ █     Uptime: since 2002, zero reboots
-     ▀▀ ▀▀        CMOS: born 2002, still holding charge
-   < hello. >     Shell: whichever has vim keybindings
-                  Day process: software engineer
-                  Night process: music producer
-                  Daemons: gym, books, podcasts
-                  WPM: yes
-                  Packages: rust cpp java kotlin js dart
+```ansi
+                  [97mabda@dxb[0m
+[1;92m   ▀▄     ▄▀      [0m-----------
+[1;92m    ▀▄   ▄▀       [0m[92mOS:[0m Human 1.0 (Cairo build, Dubai patch)
+[1;92m   ▄█▀███▀█▄      [0m[92mHost:[0m Dubai, UAE (UTC+4)
+[1;92m  █▀███████▀█     [0m[92mKernel:[0m CS degree, Cairo University
+[1;92m  █ █▀▀▀▀▀█ █     [0m[92mUptime:[0m since 2002, zero reboots
+[1;92m     ▀▀ ▀▀        [0m[92mCMOS:[0m born 2002, still holding charge
+[33m   < hello. >     [0m[92mShell:[0m whichever has vim keybindings
+                  [92mDay process:[0m software engineer
+                  [92mNight process:[0m music producer
+                  [92mDaemons:[0m gym, books, podcasts
+                  [92mWPM:[0m yes
+                  [92mPackages:[0m rust cpp java kotlin js dart
                             python flutter godot docker git
 ```
 
@@ -58,82 +59,82 @@ uid=2002(abda) gid=1337(fun-projects) groups=engineers,producers,lifters,fast-ty
 
 </div>
 
-```console
-     _~^~^~_
- \) /  o o  \ (/     the crab stays.
-   '_   -   _'       the crab has seniority.
-   | '-----' |
+```ansi
+[91m     _~^~^~_[0m
+[91m \) /  o o  \ (/   [0m  the crab stays.
+[91m   '_   -   _'     [0m  the crab has seniority.
+[91m   | '-----' |[0m
 ```
 
 ## `abda@dxb:~$ ls ~/fun-projects`
 
-```console
-ls: output does not fit on one screen
-hint: the shelves are right below this readme. compilers, bots, trains,
-      a very proud B-Tree. take whatever you like, star what you love
+```ansi
+[91mls: output does not fit on one screen[0m
+[93mhint:[0m the shelves are right below this readme. compilers, bots, trains,
+      a very proud B-Tree. take whatever you like, [92mstar what you love[0m
 ```
 
 ## `abda@dxb:~/fun-projects$ cat .secrets`
 
-```console
-cat: .secrets: permission denied
+```ansi
+[91mcat: .secrets: permission denied[0m
 ```
 
-```console
-abda@dxb:~/fun-projects$ sudo cat .secrets
-[sudo] password for abda:
+```ansi
+[97mabda@dxb:~/fun-projects$ [0msudo cat .secrets
+[2m[sudo] password for abda:[0m
 
-1. the gym playlist is 40% tracks I produced myself. nobody can stop me
-2. speed typing is not a skill, it is a coping mechanism for slow compilers
-3. there is a whole game in a private repo. the aliens are beta testing it
-4. bench press: [REDACTED UNDER PROTOCOL 7: HE ASKED US NICELY]
-5. known weakness: ████████ (nice try)
+[92m1.[0m the gym playlist is 40% tracks I produced myself. nobody can stop me
+[92m2.[0m speed typing is not a skill, it is a coping mechanism for slow compilers
+[92m3.[0m there is a whole game in a private repo. the aliens are beta testing it
+[92m4.[0m bench press: [91m[REDACTED UNDER PROTOCOL 7: HE ASKED US NICELY][0m
+[92m5.[0m known weakness: [91m████████[0m (nice try)
 ```
 
 <details>
 <summary>📁 <code>cat /honeypot/passwords.txt</code> (DO NOT OPEN)</summary>
 <br>
 
-```console
-you opened it. bold.
-the incident response team is one guy and he is at the gym.
+```ansi
+you opened it. [93mbold.[0m
+the incident response team is one guy and [33mhe is at the gym.[0m
 password list, as promised:
 
-1. hunter2
+[92m1.[0m [97mhunter2[0m
 
-   ▀▄ ▄▀
-  ▄█▀█▀█▄     you win one (1) alien.
-  █ ▀▀▀ █     spend it wisely.
-   ▀▀ ▀▀
+[1;92m   ▀▄ ▄▀[0m
+[1;92m  ▄█▀█▀█▄[0m     you win one (1) alien.
+[1;92m  █ ▀▀▀ █[0m     spend it wisely.
+[1;92m   ▀▀ ▀▀[0m
 ```
 
 </details>
 
 ## `abda@dxb:~$ crontab -l`
 
-```console
-# m   h    dom mon dow   command
-  0   6    *   *   1-6   gym --split=push-pull-legs --no-skip-leg-day
-  30  8    *   *   1-5   code --mode=engineer --coffee=required
-  0   19   *   *   *     GYM.EXE --evening-slot
-  0   19   *   *   *     STUDIO.EXE --evening-slot   # CONFLICT: both claim 19:00, loser gets 21:00
-  0   21   *   *   *     daw --open --promise="just one loop" --actual=3h
-  0   23   *   *   *     book --pages=20 || book --pages=5 --honest
-  59  23   *   *   *     git push origin life --force-with-lease
-  *   *    *   *   *     typing-test --silent --flex-only-if-above-120
+```ansi
+[2m# m   h    dom mon dow   command[0m
+[33m  0   6    *   *   1-6   [0m[32mgym --split=push-pull-legs --no-skip-leg-day[0m
+[33m  30  8    *   *   1-5   [0m[32mcode --mode=engineer --coffee=required[0m
+[33m  0   19   *   *   *     [0m[32mGYM.EXE --evening-slot[0m
+[33m  0   19   *   *   *     [0m[32mSTUDIO.EXE --evening-slot   [0m[91m# CONFLICT: both claim 19:00, loser gets 21:00[0m
+[33m  0   21   *   *   *     [0m[32mdaw --open --promise="just one loop" --actual=3h[0m
+[33m  0   23   *   *   *     [0m[32mbook --pages=20 || book --pages=5 --honest[0m
+[33m  59  23   *   *   *     [0m[32mgit push origin life --force-with-lease[0m
+[33m  *   *    *   *   *     [0m[32mtyping-test --silent --flex-only-if-above-120[0m
 ```
 
 ## `abda@dxb:~$ journalctl -u abda --since 2002`
 
-```console
-[2002.██.██]  subject deployed to Cairo. loud from day one
-[20██.██.██]  first computer. the power button click was addictive
-[201█.██.██]  learns what a pointer is. subject is never the same
-[2019.12.21]  joins github. first commit is a bot, obviously
-[202█.██.██]  graduates Cairo University, computer science
-[202█.██.██]  discovers the gym. variables get heavier
-[2026.██.██]  relocated to Dubai node. sand patch applied successfully
-[NOW]         writing this readme instead of finishing a side project
+```ansi
+[32m[2002.██.██][0m  subject deployed to Cairo. loud from day one
+[32m[20██.██.██][0m  first computer. the power button click was addictive
+[32m[201█.██.██][0m  learns what a pointer is. subject is never the same
+[32m[2019.12.21][0m  joins github. first commit is a bot, obviously
+[32m[202█.██.██][0m  graduates Cairo University, computer science
+[32m[202█.██.██][0m  discovers the gym. variables get heavier
+[32m[2026.██.██][0m  relocated to Dubai node. sand patch applied successfully
+[93m[NOW][0m         writing this readme instead of finishing a side project
 ```
 
 ## `abda@dxb:~$ man abda`
@@ -142,45 +143,46 @@ password list, as promised:
 <summary><b>ABDA(1) &nbsp;&nbsp; Fun Projects Manual &nbsp;&nbsp; click to read the manual page</b></summary>
 <br>
 
-```console
-ABDA(1)                     Fun Projects Manual                     ABDA(1)
+```ansi
+[2mABDA(1)                     Fun Projects Manual                     ABDA(1)[0m
 
-NAME
+[93mNAME[0m
        abda - software engineer, music producer, progressive overloader
 
-SYNOPSIS
+[93mSYNOPSIS[0m
        abda [--code LANG] [--lift PLATES] [--produce BPM] [--read PAGES]
 
-DESCRIPTION
+[93mDESCRIPTION[0m
        Abdallah El Belkasy. Known in the wild as AbdA. Computer science
        graduate from Cairo University. Compiled in Cairo, currently
        deployed in Dubai on UTC+4. Ships software by day and drum
        patterns by night. This GitHub instance is his arcade cabinet,
        stocked with compilers, bots, trains and one very proud B-Tree.
 
-OPTIONS
-       --code LANG
+[93mOPTIONS[0m
+       [32m--code LANG[0m
               accepts rust, c++, java, kotlin, javascript, dart, python.
               rust invocations may include unsolicited crab facts.
 
-       --lift PLATES
+       [32m--lift PLATES[0m
               increments monotonically. never returns early.
 
-       --produce BPM
+       [32m--produce BPM[0m
               opens the DAW. the "one loop" promise is decorative.
 
-       --type
+       [32m--type[0m
               no arguments. it is simply fast.
 
-EXIT STATUS
+[93mEXIT STATUS[0m
        does not exit. see crontab(1), the 23:59 entry.
 
-BUGS
+[93mBUGS[0m
        cannot pass an unfinished side project without starting a new one.
-       marked WONTFIX by the maintainer.
+       marked [91mWONTFIX[0m by the maintainer.
 
-SEE ALSO
+[93mSEE ALSO[0m
        linkedin(1), twitter(1), discord(1), gym(8)
+
 ```
 
 </details>
@@ -189,7 +191,7 @@ SEE ALSO
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdaishere&theme=github_dark" width="49%" alt="repos per language card"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdaishere&theme=github_dark&utcOffset=4" width="49%" alt="productive time card">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdaishere&theme=github_dark&exclude=contribution-art" width="49%" alt="repos per language card"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdaishere&theme=github_dark&utcOffset=4&exclude=contribution-art" width="49%" alt="productive time card">
 
 <img src="https://streak-stats.demolab.com?user=Abdaishere&theme=chartreuse-dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true" alt="longest contribution streak">
 
@@ -199,9 +201,9 @@ SEE ALSO
 
 ## `abda@dxb:~$ top -p $(pgrep snake)`
 
-```console
-PID    USER   COMMAND         STATUS
-1337   abda   snake.service   eating my contributions. do not disturb.
+```ansi
+[2mPID    USER   COMMAND         STATUS[0m
+[33m1337[0m   abda   [32msnake.service[0m   [92meating my contributions. do not disturb.[0m
 ```
 
 <div align="center">
@@ -216,62 +218,62 @@ PID    USER   COMMAND         STATUS
 
 ## `abda@dxb:~$ sudo apt install free-time`
 
-```console
-Reading package lists... done
-E: Unable to locate package free-time
-E: closest match is 'gym' which is already the newest version
+```ansi
+Reading package lists... [92mdone[0m
+[91mE: Unable to locate package free-time[0m
+[91mE:[0m closest match is '[32mgym[0m' which is already the newest version
 
-abda@dxb:~$ sudo make me a sandwich
-[sudo] password for abda:
-fine. one sandwich. it is chicken and rice. it is always chicken and rice.
+[97mabda@dxb:~$ [0msudo make me a sandwich
+[2m[sudo] password for abda:[0m
+fine. one sandwich. it is chicken and rice. [33mit is always chicken and rice.[0m
 
-abda@dxb:~$ touch grass
-touch: 'grass' created successfully (Dubai edition: touch sand)
+[97mabda@dxb:~$ [0mtouch grass
+touch: 'grass' created successfully [93m(Dubai edition: touch sand)[0m
 
-abda@dxb:~$ work-life-balance
-bash: work-life-balance: command not found
-did you mean: gym && code && music && repeat
+[97mabda@dxb:~$ [0mwork-life-balance
+[91mbash: work-life-balance: command not found[0m
+did you mean: [32mgym && code && music && repeat[0m
 ```
 
 ## `abda@dxb:~$ history | tail`
 
-```console
-  501  git commit -m "fix"
-  502  git commit -m "actually fix"
-  503  git commit -m "ok NOW it works. final. v2. REAL"
-  504  vim track_final_master_bounce_3.md
-  505  :q
-  506  :q!
-  507  ok that was the shell not vim
-  508  cargo build --release && gym    # the build finishes when I do
-  509  rm -rf node_modules             # a small funeral, as a treat
-  510  history | tail                  # observing myself. it never ends well
+```ansi
+  [33m501[0m  git commit -m "fix"
+  [33m502[0m  git commit -m "actually fix"
+  [33m503[0m  git commit -m "ok NOW it works. final. v2. REAL"
+  [33m504[0m  vim track_final_master_bounce_3.md
+  [33m505[0m  :q
+  [33m506[0m  :q!
+  [33m507[0m  ok that was the shell not vim
+  [33m508[0m  cargo build --release && gym     [2m# the build finishes when I do[0m
+  [33m509[0m  rm -rf node_modules              [2m# a small funeral, as a treat[0m
+  [33m510[0m  history | tail                   [2m# observing myself. it never ends well[0m
 ```
 
 <details>
 <summary>⚠️ <b>DO NOT PRESS</b></summary>
 <br>
 
-```text
-*** FATAL EXCEPTION 0E : LEG_DAY_HAS_OCCURRED ***
-stop code: 0xDEADL1F7
+```ansi
+[91m*** FATAL EXCEPTION 0E : LEG_DAY_HAS_OCCURRED ***[0m
+[91mstop code: 0xDEADL1F7[0m
 
-A problem has been detected: quadriceps unresponsive
-stack trace: squat() -> squat() -> squat() -> regret()
+A problem has been detected: [93mquadriceps unresponsive[0m
+stack trace: [32msquat() -> squat() -> squat() -> [0m[91mregret()[0m
 
 Press any key to reboot.
-Your monitor does not have keys.
-Exactly.
+[2mYour monitor does not have keys.[0m
+[97mExactly.[0m
 ```
 
 </details>
 
 ## `abda@dxb:~$ ping abda --all-interfaces`
 
-```console
-dialing... ATDT 4217-4207-1523-7048-32
-(yes, that phone number is my actual Discord ID. the modem knows.)
-4 interfaces up, 0% packet loss, replies within one day usually
+```ansi
+dialing... [33mATDT 4217-4207-1523-7048-32[0m
+[2m(yes, that phone number is my actual Discord ID. the modem knows.)[0m
+[92m4 interfaces up, 0% packet loss,[0m replies within one day usually
 ```
 
 <div align="center">
@@ -285,12 +287,12 @@ dialing... ATDT 4217-4207-1523-7048-32
 
 ## `abda@dxb:~$ exit`
 
-```console
-logout
-Saving session state... done
-Stopping music daemon... refused, one more loop
-star something on your way out. the mainframe remembers who did.
-Connection to abda closed.
+```ansi
+[2mlogout[0m
+Saving session state... [92mdone[0m
+Stopping music daemon... [93mrefused, one more loop[0m
+[1;92mstar something on your way out. the mainframe remembers who did.[0m
+[91mConnection to abda closed.[0m
 ```
 
 <div align="center">
