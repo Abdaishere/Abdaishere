@@ -7,97 +7,94 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Abdallah (AbdA) El Belkasy
 
 <a href="https://github.com/Abdaishere">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%9A%80;Game+%26+App+Builder+%F0%9F%95%B9%EF%B8%8F;Music+Producer+%F0%9F%8E%B5;Speed+Typist+%E2%8C%A8%EF%B8%8F;Certified+Fun-Project+Enjoyer+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=520&color=00FF41&lines=hello+world%2C+literally;software+engineer+by+day;music+producer+by+night;gym+rat+somewhere+in+between;currently+compiling+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA" alt="typing banner" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Abdaishere&color=blueviolet&style=flat-square&label=Visitors" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=Abdaishere&color=brightgreen&style=flat-square&label=terminal+sessions" alt="visitors"/>
 
 </div>
 
-> **This profile is my arcade.** Every repo here is a fun project — built to learn something, break something, or just because it sounded cool at 2 AM. Insert coin and look around. 🪙
+> You have reached the personal mainframe of AbdA. Everything in here was built for fun. Some of it even works.
 
-<br>
-
-## 🕹️ PLAYER 1 — SELECT
-
-```yaml
-name:        Abdallah El Belkasy (AbdA)
-class:       Software Engineer
-origin:      Cairo, Egypt 🇪🇬
-education:   Computer Science, Cairo University 🎓
-alignment:   Chaotic Curious
-quests:      [distributed systems, game dev, web, compilers, anything shiny]
-motto:       "Lives to learn, build, and dream big"
-status:      ready to collaborate ✅
+```diff
++ ABDA-OS v24.0 booting (phosphor green build)
++ [ OK ] mounting /dev/curiosity
++ [ OK ] loading beats.dll
++ [ OK ] gym_gains daemon started
++ [ WARN ] sleep.service failed to start (ignored, as usual)
++ boot complete. welcome, stranger.
 ```
 
-<img src="Assets/planet.gif" align="right" width="12%"/>
+## `abda@dubai:~$ whoami`
 
-**Side quests unlocked:**
-- 🎵 Music producer — beats between builds
-- 💪 Bodybuilding — compiling muscle, zero warnings
-- ⌨️ Speed typing — WPM go brrr
-- 📚 Books & podcasts on infinite loop
+```text
+      ▀▄   ▄▀
+     ▄█▀███▀█▄        abda@dubai
+    █▀███████▀█       -----------------------------------------
+    █ █▀▀▀▀▀█ █       OS:        Human 2002 LTS
+       ▀▀ ▀▀          Host:      Dubai, UAE 🇦🇪
+                      Kernel:    CS degree, Cairo University 🎓
+                      Shell:     /bin/enthusiasm
+                      Uptime:    awake since 2002, mostly
+                      Editor:    Vim (yes I know how to exit)
+                      Music:     producing beats while the code compiles
+                      Gym:       progressive overload enjoyer
+                      WPM:       faster than my compile times
+                      Memory:    99% song lyrics and random CS trivia
+```
 
-<br>
+Big fan of building things just to see if I can. Distributed systems, games, web stuff, compilers. If it sounds cool at 2 AM it goes on the list.
 
-## ⚔️ INVENTORY (Tech Stack)
+## `abda@dubai:~$ ls ~/fun-projects`
+
+Every repo here exists because it sounded fun. That is the whole business plan.
+
+| file | lang | what it actually does |
+|------|------|----------------------|
+| [`E-Jam/`](https://github.com/Abdaishere/E-Jam) | Dart | watches network packets fly around and judges them |
+| [`KinectDepthImage/`](https://github.com/Abdaishere/KinectDepthImage) | Processing | point a Kinect at stuff, it tells you how far away the stuff is |
+| [`Tiny-C-Compiler/`](https://github.com/Abdaishere/Tiny-C-Compiler) | C++ | a tiny compiler for a tiny language, built to see how deep the rabbit hole goes |
+| [`Fuzzy-Logic-Toolbox/`](https://github.com/Abdaishere/Fuzzy-Logic-Toolbox) | Java | teaching machines that "kinda hot" is a valid temperature |
+| [`Traino/`](https://github.com/Abdaishere/Traino) | Python | book train tickets without talking to anyone. the dream |
+| [`mp3-and-png-to-pptx/`](https://github.com/Abdaishere/mp3-and-png-to-pptx) | Python | turns songs and pictures into powerpoint. nobody asked. I delivered |
+
+## `abda@dubai:~$ ./install_skills.sh`
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=rust,cpp,java,kotlin,js,dart,python,flutter,godot,html,css,linux,docker,git,vim&perline=8" alt="tech stack icons"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=rust,cpp,java,kotlin,js,dart,python,flutter,godot,html,css,linux,docker,git,vim&theme=dark&perline=8" alt="tech stack icons"/></a>
 
 </div>
 
-<br>
-
-## 🗺️ LEVEL SELECT (Featured Fun Projects)
+## `abda@dubai:~$ htop`
 
 <div align="center">
 
-| | |
-|---|---|
-| [![E-Jam](https://gh-card.dev/repos/Abdaishere/E-Jam.svg)](https://github.com/Abdaishere/E-Jam) | [![KinectDepthImage](https://gh-card.dev/repos/Abdaishere/KinectDepthImage.svg)](https://github.com/Abdaishere/KinectDepthImage) |
-| [![Tiny-C-Compiler](https://gh-card.dev/repos/Abdaishere/Tiny-C-Compiler.svg)](https://github.com/Abdaishere/Tiny-C-Compiler) | [![Fuzzy-Logic-Toolbox](https://gh-card.dev/repos/Abdaishere/Fuzzy-Logic-Toolbox.svg)](https://github.com/Abdaishere/Fuzzy-Logic-Toolbox) |
-| [![Traino](https://gh-card.dev/repos/Abdaishere/Traino.svg)](https://github.com/Abdaishere/Traino) | [![mp3-and-png-to-pptx](https://gh-card.dev/repos/Abdaishere/mp3-and-png-to-pptx.svg)](https://github.com/Abdaishere/mp3-and-png-to-pptx) |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdaishere&theme=github_dark" width="100%" alt="profile summary"/>
 
-<sub>🧪 network testing • 👾 Kinect vision • ⚙️ a compiler from scratch • 🧠 fuzzy logic • 🚂 train booking • 🎤 the cursed mp3→pptx converter</sub>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdaishere&theme=github_dark" alt="repos per language"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdaishere&theme=github_dark&utcOffset=4" alt="commit time of day"/>
+
+<img src="https://streak-stats.demolab.com?user=Abdaishere&theme=chartreuse-dark&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
-<br>
+## `abda@dubai:~$ ping abda`
 
-## 📊 HIGH SCORES
+Reply from a real human in Dubai. Latency depends on gym schedule.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdaishere&theme=tokyonight" width="100%" alt="Profile summary"/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdaishere&theme=tokyonight" alt="Repos per language"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdaishere&theme=tokyonight&utcOffset=2" alt="Commit time of day"/>
-
-<img src="https://streak-stats.demolab.com?user=Abdaishere&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/abdallahelbelkasy)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/abdaishere)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com/users/421742071523704832)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:abdallahemohmad2002@gmail.com)
 
 </div>
 
-<br>
-
-## 🤝 CO-OP MODE (Let's Connect!)
+## `abda@dubai:~$ ./snake --eat-contributions`
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallahelbelkasy)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/abdaishere)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/421742071523704832)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallahemohmad2002@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🐍 The snake ate my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdaishere/abdaishere/output/github-snake-dark.svg" />
@@ -105,8 +102,19 @@ status:      ready to collaborate ✅
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/abdaishere/abdaishere/output/github-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
 
-<sub>⭐ Thanks for stopping by — GAME OVER... or is it? Press F5 to continue.</sub>
+```text
+abda@dubai:~$ exit
+logout
+Connection to abda closed.
+(press F5 to reconnect)
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=110&section=footer" width="100%"/>
+
+<sub>⭐ thanks for stopping by. the mainframe never forgets a visitor</sub>
 
 </div>
