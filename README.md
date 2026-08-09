@@ -8,22 +8,21 @@
 
 </div>
 
-```console
+```text
 Last login: today, from a mechanical keyboard that woke up the neighbors
 
- ██████╗ ██████╗ ██████╗  █████╗
-██╔═══██╗██╔══██╗██╔══██╗██╔══██╗
-███████║██████╔╝██║  ██║███████║
-██╔══██║██╔══██╗██║  ██║██╔══██║
-██║  ██║██████╔╝██████╔╝██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝
+ █████╗  ██████╗  ██████╗   █████╗
+██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗
+███████║ ██████╔╝ ██║  ██║ ███████║
+██╔══██║ ██╔══██╗ ██║  ██║ ██╔══██║
+██║  ██║ ██████╔╝ ██████╔╝ ██║  ██║
+╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝  ╚═╝
 
 MOTD: this machine hosts fun projects only.
       serious code lives elsewhere and signed an NDA.
-      you are visitor number:
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Abdaishere&style=flat-square&color=00ff41&label=session" alt="visitor counter">
+<img src="https://komarev.com/ghpvc/?username=Abdaishere&style=flat-square&color=00ff41&label=you+are+visitor+number" alt="visitor counter">
 
 > `man abda | head -3` for the humans in a hurry: I'm Abdallah El Belkasy, AbdA for short. Software engineer in Dubai, CS grad from Cairo University, music producer after dark. Everything below is the long version, in the only format this machine respects.
 
