@@ -179,9 +179,11 @@ SEE ALSO
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdaishere&theme=github_dark" width="100%" alt="profile details card">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdaishere&theme=github_dark&exclude_repos=contribution-art" width="49%" alt="repos per language card"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdaishere&theme=github_dark&utcOffset=4&exclude_repos=contribution-art" width="49%" alt="productive time card">
 
-<img src="https://streak-stats.demolab.com?user=Abdaishere&theme=chartreuse-dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true" alt="longest contribution streak">
+<img src="https://streak-stats.demolab.com?user=Abdaishere&theme=chartreuse-dark&hide_border=true" alt="longest contribution streak">
 
 <sub>productive-time runs on UTC+4. the late spikes are the DAW's fault. subject knows. subject commits anyway.</sub>
 
