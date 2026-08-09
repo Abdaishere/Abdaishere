@@ -37,20 +37,20 @@ uid=2002(abda) gid=1337(fun-projects) groups=engineers,producers,lifters,fast-ty
 ## `abda@dxb:~$ neofetch`
 
 ```console
-    .---.       abda@dxb
-   /     \      -----------
-  | () () |     OS: Human 1.0 (Cairo build, Dubai patch)
-   \  ^  /      Host: Dubai, UAE (UTC+4)
-    |||||       Kernel: CS degree, Cairo University
-    |||||       Uptime: since 2002, zero reboots
-                CMOS: born 2002, still holding charge
-                Shell: whichever has vim keybindings
-                Day process: software engineer
-                Night process: music producer
-                Daemons: gym, books, podcasts
-                WPM: yes
-                Packages: rust cpp java kotlin js dart
-                          python flutter godot docker git
+                  abda@dxb
+   ▀▄     ▄▀      -----------
+    ▀▄   ▄▀       OS: Human 1.0 (Cairo build, Dubai patch)
+   ▄█▀███▀█▄      Host: Dubai, UAE (UTC+4)
+  █▀███████▀█     Kernel: CS degree, Cairo University
+  █ █▀▀▀▀▀█ █     Uptime: since 2002, zero reboots
+     ▀▀ ▀▀        CMOS: born 2002, still holding charge
+   < hello. >     Shell: whichever has vim keybindings
+                  Day process: software engineer
+                  Night process: music producer
+                  Daemons: gym, books, podcasts
+                  WPM: yes
+                  Packages: rust cpp java kotlin js dart
+                            python flutter godot docker git
 ```
 
 <div align="center">
