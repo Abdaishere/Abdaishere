@@ -1,120 +1,333 @@
 <div align="center">
 
-<img src="Assets/AbdA.jpg" alt="AbdA banner" width="100%" />
+<img src="Assets/crt_banner.svg" alt="CRT boot banner" width="100%">
 
-<img src="Assets/alien_1.gif" width="6%"/> <img src="Assets/alien_2.gif" width="6%"/> <img src="Assets/ferris.gif" width="7%"/> <img src="Assets/alien_3.gif" width="6%"/> <img src="Assets/alien_4.gif" width="6%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&center=true&width=600&lines=abda-os+v24.0+booting...;mounting+%2Fdev%2Fcoffee...+ok;login%3A+abda;password%3A+********;access+granted.+welcome+back." alt="boot sequence typing animation">
 
-# Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Abdallah (AbdA) El Belkasy
-
-<a href="https://github.com/Abdaishere">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=520&color=00FF41&lines=hello+world%2C+literally;software+engineer+by+day;music+producer+by+night;gym+rat+somewhere+in+between;currently+compiling+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA" alt="typing banner" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Abdaishere&color=brightgreen&style=flat-square&label=terminal+sessions" alt="visitors"/>
+<img src="Assets/alien_1.gif" width="28" alt=""> <img src="Assets/alien_2.gif" width="28" alt=""> <img src="Assets/ferris.gif" width="32" alt=""> <img src="Assets/alien_3.gif" width="28" alt=""> <img src="Assets/alien_4.gif" width="28" alt="">
 
 </div>
 
-> You have reached the personal mainframe of AbdA. Everything in here was built for fun. Some of it even works.
+```console
+Last login: today, from a mechanical keyboard that woke up the neighbors
 
-```diff
-+ ABDA-OS v24.0 booting (phosphor green build)
-+ [ OK ] mounting /dev/curiosity
-+ [ OK ] loading beats.dll
-+ [ OK ] gym_gains daemon started
-+ [ WARN ] sleep.service failed to start (ignored, as usual)
-+ boot complete. welcome, stranger.
+ ██████╗ ██████╗ ██████╗  █████╗
+██╔═══██╗██╔══██╗██╔══██╗██╔══██╗
+███████║██████╔╝██║  ██║███████║
+██╔══██║██╔══██╗██║  ██║██╔══██║
+██║  ██║██████╔╝██████╔╝██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝
+
+MOTD: this machine hosts fun projects only.
+      serious code lives elsewhere and signed an NDA.
+      you are visitor number:
 ```
 
-## `abda@dubai:~$ whoami`
+<div align="center">
 
-```text
-      ▀▄   ▄▀
-     ▄█▀███▀█▄        abda@dubai
-    █▀███████▀█       -----------------------------------------
-    █ █▀▀▀▀▀█ █       OS:        Human 2002 LTS
-       ▀▀ ▀▀          Host:      Dubai, UAE 🇦🇪
-                      Kernel:    CS degree, Cairo University 🎓
-                      Shell:     /bin/enthusiasm
-                      Uptime:    awake since 2002, mostly
-                      Editor:    Vim (yes I know how to exit)
-                      Music:     producing beats while the code compiles
-                      Gym:       progressive overload enjoyer
-                      WPM:       faster than my compile times
-                      Memory:    99% song lyrics and random CS trivia
+<img src="https://komarev.com/ghpvc/?username=Abdaishere&color=00FF41&style=flat-square&label=terminal+sessions" alt="visitor counter">
+
+</div>
+
+> `man abda | head -3` for the humans in a hurry: I'm Abdallah El Belkasy, AbdA for short. Software engineer in Dubai, CS grad from Cairo University, music producer after dark. Everything below is the long version, in the only format this machine respects.
+
+## `abda@dxb:~$ whoami`
+
+```console
+abda
+uid=2002(abda) gid=1337(fun-projects) groups=engineers,producers,lifters,fast-typists
 ```
 
-Big fan of building things just to see if I can. Distributed systems, games, web stuff, compilers. If it sounds cool at 2 AM it goes on the list.
+## `abda@dxb:~$ neofetch`
 
-## `abda@dubai:~$ ls ~/fun-projects`
+<img src="Assets/AbdA.jpg" align="right" width="260" alt="photo of AbdA">
 
-Every repo here exists because it sounded fun. That is the whole business plan.
+```console
+            .---.            abda@dxb
+           /     \           -----------
+          | () () |          OS: Human 1.0 (Cairo build, Dubai patch)
+           \  ^  /           Host: Dubai, UAE (UTC+4)
+            |||||            Kernel: CS degree, Cairo University
+            |||||            Uptime: since 2002, zero reboots
+                             CMOS battery: manufactured 2002, still full charge
+                             Shell: whichever has vim keybindings
+                             Day process: software engineer
+                             Night process: music producer
+                             Background daemons: gym, books, podcasts
+                             WPM: yes
+                             Packages: rust cpp java kotlin js dart
+                                       python flutter godot docker git
+```
 
-| file | lang | what it actually does |
-|------|------|----------------------|
-| [`E-Jam/`](https://github.com/Abdaishere/E-Jam) | Dart | watches network packets fly around and judges them |
-| [`KinectDepthImage/`](https://github.com/Abdaishere/KinectDepthImage) | Processing | point a Kinect at stuff, it tells you how far away the stuff is |
-| [`Tiny-C-Compiler/`](https://github.com/Abdaishere/Tiny-C-Compiler) | C++ | a tiny compiler for a tiny language, built to see how deep the rabbit hole goes |
-| [`Fuzzy-Logic-Toolbox/`](https://github.com/Abdaishere/Fuzzy-Logic-Toolbox) | Java | teaching machines that "kinda hot" is a valid temperature |
-| [`Traino/`](https://github.com/Abdaishere/Traino) | Python | book train tickets without talking to anyone. the dream |
-| [`mp3-and-png-to-pptx/`](https://github.com/Abdaishere/mp3-and-png-to-pptx) | Python | turns songs and pictures into powerpoint. nobody asked. I delivered |
-
-## `abda@dubai:~$ ./install_skills.sh`
-
-<div align="center">
-
-<a href="#"><img src="https://skillicons.dev/icons?i=rust,cpp,java,kotlin,js,dart,python,flutter,godot,html,css,linux,docker,git,vim&theme=dark&perline=8" alt="tech stack icons"/></a>
-
-</div>
-
-## `abda@dubai:~$ htop`
+<br clear="right">
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdaishere&theme=github_dark" width="100%" alt="profile summary"/>
+<img src="https://skillicons.dev/icons?i=rust,cpp,java,kotlin,js,dart,py,flutter,godot,html,css,linux,docker,git,vim&theme=dark" alt="tech stack icons">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdaishere&theme=github_dark" alt="repos per language"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdaishere&theme=github_dark&utcOffset=4" alt="commit time of day"/>
-
-<img src="https://streak-stats.demolab.com?user=Abdaishere&theme=chartreuse-dark&hide_border=true" alt="GitHub streak"/>
+<sub><img src="Assets/ferris.gif" width="40" alt="ferris the crab"> the crab stays. the crab has seniority.</sub>
 
 </div>
 
-## `abda@dubai:~$ ping abda`
+## `abda@dxb:~$ cd fun-projects && ls -la`
 
-Reply from a real human in Dubai. Latency depends on gym schedule.
+```console
+total 14 directories, 0 regrets
+drwxr-xr-x  abda fun  .          # you are here
+drwxr-xr-x  abda fun  ..         # no going back
+-rw-r--r--  abda fun  README.md  # you are reading it
+```
+
+opening the interesting ones by hand. commentary included, free of charge.
+
+| perms | file | lang | field notes |
+|---|---|---|---|
+| `drwx--x--x` | [`E-Jam/`](https://github.com/Abdaishere/E-Jam) | Dart | network testing and monitoring. watches packets so I do not have to |
+| `drwx--x--x` | [`KinectDepthImage/`](https://github.com/Abdaishere/KinectDepthImage) | Processing | Kinect depth visualizer. three whole stars. basically famous |
+| `drwx--x--x` | [`Tiny-C-Compiler/`](https://github.com/Abdaishere/Tiny-C-Compiler) | C++ | wrote a compiler to finally win an argument with one |
+| `drwx--x--x` | [`Fuzzy-Logic-Toolbox/`](https://github.com/Abdaishere/Fuzzy-Logic-Toolbox) | Java | logic, but it shrugs. very relatable math |
+| `drwx--x--x` | [`Traino/`](https://github.com/Abdaishere/Traino) | Python | Django train booking. the trains run on my code now. pray |
+| `drwx--x--x` | [`mp3-and-png-to-pptx/`](https://github.com/Abdaishere/mp3-and-png-to-pptx) | Python | turns songs and images into slides. built it once, saved hours forever |
+| `drwx--x--x` | [`News-App/`](https://github.com/Abdaishere/News-App) | Kotlin | news reader. delivers bad news in a nice font |
+| `drwx--x--x` | [`Shab3ni/`](https://github.com/Abdaishere/Shab3ni) | Kotlin | food ordering app. the name means "feed me" and it means it |
+| `drwx--x--x` | [`CPU-Scheduler-Simulator/`](https://github.com/Abdaishere/CPU-Scheduler-Simulator) | Java | simulates a CPU juggling tasks. autobiographical |
+| `drwx--x--x` | [`Lempel-Ziv-Welch/`](https://github.com/Abdaishere/Lempel-Ziv-Welch) | Java | LZW compression. this row could have been shorter |
+| `drwx--x--x` | [`BTree/`](https://github.com/Abdaishere/BTree) | C++ | a B-Tree. planted it myself. self-balancing, unlike me before coffee |
+| `drwx--x--x` | [`-hipbot/`](https://github.com/Abdaishere/-hipbot) | Python | Discord bot. starts with a dash so half of unix tools fear it |
+| `drwx--x--x` | [`Calculator/`](https://github.com/Abdaishere/Calculator) | HTML/JS | a calculator. every arcade needs a coin slot |
+| `drwx--x--x` | [`contribution-art/`](https://github.com/Abdaishere/contribution-art) | Git | I drew space invaders in my commit graph. scroll my years, say hi |
+
+## `abda@dxb:~/fun-projects$ cat .secrets`
+
+```console
+cat: .secrets: permission denied
+```
+
+```console
+abda@dxb:~/fun-projects$ sudo cat .secrets
+[sudo] password for abda:
+
+1. the gym playlist is 40% tracks I produced myself. nobody can stop me
+2. speed typing is not a skill, it is a coping mechanism for slow compilers
+3. there is a whole game in a private repo. the aliens are beta testing it
+4. bench press: [REDACTED UNDER PROTOCOL 7: HE ASKED US NICELY]
+5. known weakness: ████████ (nice try)
+```
+
+<details>
+<summary>📁 <code>cat /honeypot/passwords.txt</code> (DO NOT OPEN)</summary>
+<br>
+
+```console
+you opened it. bold.
+the incident response team is one guy and he is at the gym.
+password list, as promised:
+
+1. hunter2
+```
+
+<div align="center"><img src="Assets/alien_2.gif" width="28" alt="reward alien"> <sub>you win one (1) alien. spend it wisely.</sub></div>
+
+</details>
+
+## `abda@dxb:~$ crontab -l`
+
+```console
+# m   h    dom mon dow   command
+  0   6    *   *   1-6   gym --split=push-pull-legs --no-skip-leg-day
+  30  8    *   *   1-5   code --mode=engineer --coffee=required
+  0   19   *   *   *     GYM.EXE --evening-slot
+  0   19   *   *   *     STUDIO.EXE --evening-slot   # CONFLICT: both claim 19:00, loser gets 21:00
+  0   21   *   *   *     daw --open --promise="just one loop" --actual=3h
+  0   23   *   *   *     book --pages=20 || book --pages=5 --honest
+  59  23   *   *   *     git push origin life --force-with-lease
+  *   *    *   *   *     typing-test --silent --flex-only-if-above-120
+```
+
+## `abda@dxb:~$ journalctl -u abda --since 2002`
+
+```console
+[2002.██.██]  subject deployed to Cairo. loud from day one
+[20██.██.██]  first computer. the power button click was addictive
+[201█.██.██]  learns what a pointer is. subject is never the same
+[2019.12.21]  joins github. first commit is a bot, obviously
+[202█.██.██]  graduates Cairo University, computer science
+[202█.██.██]  discovers the gym. variables get heavier
+[2026.██.██]  relocated to Dubai node. sand patch applied successfully
+[NOW]         writing this readme instead of finishing a side project
+```
+
+## `abda@dxb:~$ man abda`
+
+<details>
+<summary><b>ABDA(1) &nbsp;&nbsp; Fun Projects Manual &nbsp;&nbsp; click to read the manual page</b></summary>
+<br>
+
+```console
+ABDA(1)                     Fun Projects Manual                     ABDA(1)
+
+NAME
+       abda - software engineer, music producer, progressive overloader
+
+SYNOPSIS
+       abda [--code LANG] [--lift PLATES] [--produce BPM] [--read PAGES]
+
+DESCRIPTION
+       Abdallah El Belkasy. Known in the wild as AbdA. Computer science
+       graduate from Cairo University. Compiled in Cairo, currently
+       deployed in Dubai on UTC+4. Ships software by day and drum
+       patterns by night. This GitHub instance is his arcade cabinet,
+       stocked with compilers, bots, trains and one very proud B-Tree.
+
+OPTIONS
+       --code LANG
+              accepts rust, c++, java, kotlin, javascript, dart, python.
+              rust invocations may include unsolicited crab facts.
+
+       --lift PLATES
+              increments monotonically. never returns early.
+
+       --produce BPM
+              opens the DAW. the "one loop" promise is decorative.
+
+       --type
+              no arguments. it is simply fast.
+
+EXIT STATUS
+       does not exit. see crontab(1), the 23:59 entry.
+
+BUGS
+       cannot pass an unfinished side project without starting a new one.
+       marked WONTFIX by the maintainer.
+
+SEE ALSO
+       linkedin(1), twitter(1), discord(1), gym(8)
+```
+
+</details>
+
+## `abda@dxb:~$ ps aux | grep stats`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/abdallahelbelkasy)
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/abdaishere)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com/users/421742071523704832)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:abdallahemohmad2002@gmail.com)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdaishere&theme=github_dark" width="100%" alt="profile details card">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdaishere&theme=github_dark" width="49%" alt="repos per language card"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdaishere&theme=github_dark&utcOffset=4" width="49%" alt="productive time card">
+
+<img src="https://streak-stats.demolab.com?user=Abdaishere&theme=chartreuse-dark&hide_border=true" alt="contribution streak">
+
+<sub>productive-time runs on UTC+4. the late spikes are the DAW's fault. subject knows. subject commits anyway.</sub>
 
 </div>
 
-## `abda@dubai:~$ ./snake --eat-contributions`
+## `abda@dxb:~$ top -p $(pgrep snake)`
+
+```console
+PID    USER   COMMAND         STATUS
+1337   abda   snake.service   eating my contributions. do not disturb.
+```
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdaishere/abdaishere/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdaishere/abdaishere/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/abdaishere/abdaishere/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdaishere/Abdaishere/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdaishere/Abdaishere/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Abdaishere/Abdaishere/output/github-snake-dark.svg" alt="contribution snake animation" width="100%">
 </picture>
 
 </div>
 
+## `abda@dxb:~$ sudo apt install free-time`
+
+```console
+Reading package lists... done
+E: Unable to locate package free-time
+E: closest match is 'gym' which is already the newest version
+
+abda@dxb:~$ sudo make me a sandwich
+[sudo] password for abda:
+fine. one sandwich. it is chicken and rice. it is always chicken and rice.
+
+abda@dxb:~$ touch grass
+touch: 'grass' created successfully (Dubai edition: touch sand)
+
+abda@dxb:~$ work-life-balance
+bash: work-life-balance: command not found
+did you mean: gym && code && music && repeat
+```
+
+## `abda@dxb:~$ history | tail`
+
+```console
+  501  git commit -m "fix"
+  502  git commit -m "actually fix"
+  503  git commit -m "ok NOW it works. final. v2. REAL"
+  504  vim track_final_master_bounce_3.md
+  505  :q
+  506  :q!
+  507  ok that was the shell not vim
+  508  cargo build --release && gym    # the build finishes when I do
+  509  rm -rf node_modules             # a small funeral, as a treat
+  510  history | tail                  # observing myself. it never ends well
+```
+
+<details>
+<summary>⚠️ <b>DO NOT PRESS</b></summary>
+<br>
+
 ```text
-abda@dubai:~$ exit
-logout
-Connection to abda closed.
-(press F5 to reconnect)
+*** FATAL EXCEPTION 0E : LEG_DAY_HAS_OCCURRED ***
+stop code: 0xDEADL1F7
+
+A problem has been detected: quadriceps unresponsive
+stack trace: squat() -> squat() -> squat() -> regret()
+
+Press any key to reboot.
+Your monitor does not have keys.
+Exactly.
+```
+
+</details>
+
+## `abda@dxb:~$ ping abda --all-interfaces`
+
+```console
+dialing... ATDT 4217-4207-1523-7048-32
+(yes, that phone number is my actual Discord ID. the modem knows.)
+4 interfaces up, 0% packet loss, replies within one day usually
 ```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=110&section=footer" width="100%"/>
+<a href="https://linkedin.com/in/abdallahelbelkasy"><img src="https://img.shields.io/badge/eth0-LinkedIn-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="LinkedIn"></a>
+<a href="https://twitter.com/abdaishere"><img src="https://img.shields.io/badge/eth1-Twitter-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Twitter"></a>
+<a href="https://discord.com/users/421742071523704832"><img src="https://img.shields.io/badge/eth2-Discord-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Discord"></a>
+<a href="mailto:abdallahemohmad2002@gmail.com"><img src="https://img.shields.io/badge/eth3-Mail-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Email"></a>
 
-<sub>⭐ thanks for stopping by. the mainframe never forgets a visitor</sub>
+</div>
+
+## `abda@dxb:~$ exit`
+
+```console
+logout
+Saving session state... done
+Stopping music daemon... refused, one more loop
+star something on your way out. the mainframe remembers who did.
+Connection to abda closed.
+```
+
+<div align="center">
+
+<img src="Assets/planet.gif" width="60" alt="tiny planet">
+
+<sub>screen burn-in courtesy of a CRT that never sleeps. thanks for stopping by, the aliens will see you out.</sub>
+
+<br>
+
+<img src="Assets/alien_4.gif" width="24" alt=""> <img src="Assets/alien_3.gif" width="24" alt=""> <img src="Assets/alien_2.gif" width="24" alt=""> <img src="Assets/alien_1.gif" width="24" alt="">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%" alt="">
+
+<sub>It is now safe to turn off your computer.</sub>
 
 </div>
