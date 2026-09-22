@@ -21,12 +21,13 @@
 @@ MOTD @@
   this machine hosts fun projects only.
 - serious code lives elsewhere and signed an NDA.
++ the serious stuff, and the CV, live at https://abdaishere.com
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Abdaishere&style=flat-square&color=00ff41&label=you+are+visitor+number" alt="visitor counter">
 
 > [!TIP]
-> `man abda | head -3` for the humans in a hurry: I'm Abdallah El Belkasy, AbdA for short. Software engineer in Dubai, CS grad from Cairo University, music producer after dark. Everything below is the long version, in the only format this machine respects.
+> `man abda | head -3` for the humans in a hurry: I'm Abdallah El Belkasy, AbdA for short. Software engineer in Dubai, CS grad from Cairo University, music producer after dark. Everything below is the long version, in the only format this machine respects. The short one, with the CV, is at [abdaishere.com](https://abdaishere.com).
 
 ## `abda@dxb:~$ whoami`
 
@@ -170,7 +171,7 @@ BUGS
        marked WONTFIX by the maintainer.
 
 SEE ALSO
-       linkedin(1), twitter(1), discord(1), gym(8)
+       abdaishere.com(1), linkedin(1), twitter(1), discord(1), gym(8)
 ```
 
 </details>
@@ -264,15 +265,16 @@ SEE ALSO
 ```diff
   dialing... ATDT 4217-4207-1523-7048-32
   (yes, that phone number is my actual Discord ID. the modem knows.)
-+ 4 interfaces up, 0% packet loss, replies within one day usually
++ 5 interfaces up, 0% packet loss, replies within one day usually
 ```
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abdallahelbelkasy"><img src="https://img.shields.io/badge/eth0-LinkedIn-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="LinkedIn"></a>
-<a href="https://twitter.com/abdaishere"><img src="https://img.shields.io/badge/eth1-Twitter-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Twitter"></a>
-<a href="https://discord.com/users/421742071523704832"><img src="https://img.shields.io/badge/eth2-Discord-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Discord"></a>
-<a href="mailto:abdallahemohmad2002@gmail.com"><img src="https://img.shields.io/badge/eth3-Mail-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Email"></a>
+<a href="https://abdaishere.com"><img src="https://img.shields.io/badge/eth0-abdaishere.com-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Website"></a>
+<a href="https://linkedin.com/in/abdallahelbelkasy"><img src="https://img.shields.io/badge/eth1-LinkedIn-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="LinkedIn"></a>
+<a href="https://twitter.com/abdaishere"><img src="https://img.shields.io/badge/eth2-Twitter-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Twitter"></a>
+<a href="https://discord.com/users/421742071523704832"><img src="https://img.shields.io/badge/eth3-Discord-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Discord"></a>
+<a href="mailto:abdallahemohmad2002@gmail.com"><img src="https://img.shields.io/badge/eth4-Mail-00FF41?style=for-the-badge&labelColor=0d1117&color=0d1117" alt="Email"></a>
 
 </div>
 
