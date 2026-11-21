@@ -1,4 +1,4 @@
-<a href="https://abdaishere.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/header-dark.svg"><img alt="Abdallah El Belkasy, software engineer at Odoo in Dubai. Next to the name, a run of PolyBall, the rhythm game I made: the ring turns, each ball lands on its own colour, and every catch adds a note." src="readme/header-light.svg" width="100%"></picture></a>
+<a href="https://abdaishere.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/header-dark.svg"><img alt="Abdallah El Belkasy, software engineer at Odoo in Dubai. Next to the name, a run of PolyBall, the rhythm game I made: the ring turns, each ball lands on its own colour, and every catch adds a note. Two achievement toasts pop up during the run." src="readme/header-light.svg" width="100%"></picture></a>
 
 <p align="center">
 <a href="https://abdaishere.com/polyball/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-play-dark.svg"><img alt="Play PolyBall in your browser" src="readme/btn-play-light.svg" height="40"></picture></a>
@@ -42,8 +42,9 @@ I work with the client to find out what the business actually needs, map it to w
 + Multi-step approvals.
 + Requests go back and forth.
 + On purpose.
-+ Mapping Odoo to two very large
-+ external systems. ~150 h so far.
++ Mapping Odoo to two very
++ large external systems.
++ ~150 hours so far.
 + PolyBall on Google Play,
 + 13 Nov 2026. 19 releases in.
 + Monitor Buddy went public.
@@ -110,7 +111,7 @@ M0               ; pause until the client says yes
 M300 S523 P150   ; C
 M300 S659 P150   ; E
 M300 S784 P300   ; G. Every note you hear, you played.
-M117 Done. One baseball bat, life-size.
+M117 Done          ; one baseball bat, life-size.
 M84              ; motors off
 ```
 
