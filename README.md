@@ -11,12 +11,12 @@
 <a href="https://www.linkedin.com/in/abdallahelbelkasy"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-linkedin-dark.svg"><img alt="LinkedIn" src="readme/btn-linkedin-light.svg" height="34"></picture></a>
 </p>
 
-<p align="center"><b>Plan first, then code.</b> It works at Odoo, it got a game onto Google Play, and it mostly works on my 3D printer.</p>
+<p align="center"><b>Plan first, then code.</b><br>It works at Odoo, it got a game onto Google Play, and it mostly works on my 3D printer.</p>
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme/numbers-dark.svg">
-  <img alt="100+ client projects at Odoo, across the Gulf. 19 releases of PolyBall, September to November 2026. 0 music files in PolyBall: you play them." src="readme/numbers-light.svg" width="720">
+  <img alt="100+ client projects at Odoo, across the Gulf. 19 releases of PolyBall, September to November 2026. 0 music files in PolyBall: you play them." src="readme/numbers-light.svg" width="600">
 </picture>
 </p>
 
@@ -38,11 +38,7 @@ I work with the client to find out what the business actually needs, map it to w
 
 ## Things I built
 
-### PolyBall
-
-<a href="https://abdaishere.com/polyball/play/"><img align="right" width="27%" src="readme/polyball.gif" alt="PolyBall gameplay: a ball drops onto a pentagon and lands on the side of its own colour"></a>
-
-**A rhythm game where every note you hear, you played.** Catch the ball on its colour and the music builds, one note at a time. Miss once and it all stops.
+<a href="https://abdaishere.com/polyball/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/card-polyball-dark.gif"><img alt="PolyBall, a rhythm game I made alone. Every note you hear, you played. Live gameplay next to the home screen." src="readme/card-polyball-light.gif" width="100%"></picture></a>
 
 I designed, built and released it alone. It's been on Google Play since 13 November 2026, and it runs in the browser with nothing to install.
 
@@ -53,43 +49,31 @@ I designed, built and released it alone. It's been on Google Play since 13 Novem
 
 **[Play it in your browser](https://abdaishere.com/polyball/play/)** · [Google Play](https://play.google.com/store/apps/details?id=com.polyball.game) · [How it's built](https://abdaishere.com/polyball/) · The source is private.
 
-<br clear="right">
+<br>
 
-### Monitor Buddy
+<a href="https://github.com/Abdaishere/monitor-buddy"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/card-monitor-buddy-dark.gif"><img alt="Monitor Buddy, a tiny screen with a face that follows my workday, lifted off its printed keyboard dock and put back. A fork of IdefixRC's Monitor-Buddy." src="readme/card-monitor-buddy-light.gif" width="100%"></picture></a>
 
-<a href="https://github.com/Abdaishere/monitor-buddy"><img align="left" width="30%" src="readme/monitor-buddy.gif" alt="Monitor Buddy, a tiny screen on a printed keyboard dock, lifted off the dock and put back"></a>
-
-**A tiny desk screen with a face that follows my workday.** It goes red when CI fails, says ON AIR while the mic is on, and chews during lunch.
-
-It's a fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware and most of the installer are their work. I added the personalisation, a laptop app, and a simulator that runs the real firmware in the browser, so you see a change before it reaches the board. The keyboard dock came off my printer.
+It goes red when CI fails, says ON AIR while the mic is on, and chews during lunch. It's a fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware and most of the installer are their work. I added the personalisation, a laptop app, and a simulator that runs the real firmware in the browser, so you see a change before it reaches the board. The keyboard dock came off my printer.
 
 [Repository](https://github.com/Abdaishere/monitor-buddy) (MIT) · [The write-up](https://abdaishere.com/prints/monitor-buddy/)
 
-<br clear="left">
+<br>
 
-### E-Jam
+<a href="https://github.com/Abdaishere/E-Jam"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/card-e-jam-dark.jpg"><img alt="E-Jam, my graduation project: a test bench for network switches. The Flutter admin client's dashboard." src="readme/card-e-jam-light.jpg" width="100%"></picture></a>
 
-<a href="https://github.com/Abdaishere/E-Jam"><img align="right" width="44%" src="readme/e-jam.jpg" alt="E-Jam's Flutter admin client: a dashboard with stream status tiles, test progress and performance gauges"></a>
+It runs RFC 2544 and RFC 2889 benchmarks. My graduation project at Cairo University, built with Siemens EDA, whose engineers were our mentors, sponsor and product owner. Five of us built it.
 
-**A distributed test bench for network switches.** It runs RFC 2544 and RFC 2889 benchmarks. My graduation project at Cairo University, built with Siemens EDA, whose engineers were our mentors, sponsor and product owner.
-
-Five of us built it. I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that moves every stream, device and process through explicit state machines and reads the test statistics from Apache Kafka. I also built the Flutter admin client you see here. 256 commits, the most on the team.
+I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that moves every stream, device and process through explicit state machines and reads the test statistics from Apache Kafka. I also built the Flutter admin client on the card. 256 commits, the most on the team.
 
 [Repository](https://github.com/Abdaishere/E-Jam) (MIT) · [Project page](https://abdaishere.com/e-jam/)
 
-<br clear="right">
+<br>
 
-### abdaishere.com and the 3D prints
+<a href="https://abdaishere.com/prints/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/card-prints-dark.jpg"><img alt="Off the bed, my 3D prints: a sliced Panamera on an orange plate, a life-size baseball bat, Monitor Buddy on its dock and two gel blaster parts." src="readme/card-prints-light.jpg" width="100%"></picture></a>
 
-<a href="https://abdaishere.com/prints/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/prints-dark.jpg"><img align="left" width="42%" src="readme/prints-light.jpg" alt="Four prints: a sliced Panamera on an orange plate, a life-size baseball bat, Monitor Buddy on its dock, and two gel blaster parts"></picture></a>
-
-My site, designed and built by me in plain HTML, CSS and JavaScript, no framework. It holds the CV, the project pages and **Off the bed**, where I write up the things I design and print, failed tries included.
-
-So far: [a life-size bat on a 30 cm printer](https://abdaishere.com/prints/bat/), [a Panamera in 44 slices](https://abdaishere.com/prints/panamera-sculpture/), [gel blaster parts from phone photos](https://abdaishere.com/prints/blaster/) and Monitor Buddy's dock.
+Off the bed lives on [abdaishere.com](https://abdaishere.com), my site, which I designed and built in plain HTML, CSS and JavaScript, no framework. It also holds the CV and the project pages. So far off the printer: [a life-size baseball bat](https://abdaishere.com/prints/bat/), [a sliced Panamera](https://abdaishere.com/prints/panamera-sculpture/), [gel blaster parts from phone photos](https://abdaishere.com/prints/blaster/) and Monitor Buddy's dock.
 
 [abdaishere.com](https://abdaishere.com) · [Site source](https://github.com/Abdaishere/abdaishere.github.io)
-
-<br clear="left">
 
 ## Tools
 
