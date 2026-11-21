@@ -2,7 +2,7 @@
 
 Software engineer at Odoo in Dubai. I work out what a business needs, turn it into a data model and a delivery plan, and then build it.
 
-Site and CV: [abdaishere.com](https://abdaishere.com)
+Site: [abdaishere.com](https://abdaishere.com)
 
 ## Work
 
@@ -33,7 +33,7 @@ My part was Center Point, the control plane in Rust on Actix Web, and the Flutte
 
 ### abdaishere.com
 
-My site, with the project pages and the CV. Published from [abdaishere.github.io](https://github.com/Abdaishere/abdaishere.github.io).
+My site, with the project pages. Published from [abdaishere.github.io](https://github.com/Abdaishere/abdaishere.github.io).
 
 ## Tools
 
