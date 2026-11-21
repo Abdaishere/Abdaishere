@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://abdaishere.com/polyball/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-play-dark.svg"><img alt="Play PolyBall in your browser" src="readme/btn-play-light.svg" height="40"></picture></a>
-<a href="https://github.com/Abdaishere/monitor-buddy/releases/tag/v1.0.0"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-buddy-v4c-dark.svg"><img alt="Monitor Buddy v1.0.0, the release" src="readme/btn-buddy-v4c-light.svg" height="40"></picture></a>
+<a href="https://github.com/Abdaishere/monitor-buddy/releases/tag/v1.0.0"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-buddy-v4d-dark.svg"><img alt="Monitor Buddy v1.0.0, the release" src="readme/btn-buddy-v4d-light.svg" height="40"></picture></a>
 <a href="https://abdaishere.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-site-dark.svg"><img alt="My site, abdaishere.com" src="readme/btn-site-light.svg" height="40"></picture></a>
 </p>
 
@@ -10,15 +10,15 @@
 
 ## Achievements
 
-<p align="center"><b>5 of 6 unlocked</b>, 1 hidden. Every card opens its proof.</p>
+<p align="center"><b>5 of 6 unlocked.</b> Every card opens its proof.<br>One more is hidden, and that one is for you to find.</p>
 
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.polyball.game"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4c-game-dark.svg"><img alt="Achievement: Made a game alone. PolyBall, a rhythm game I designed, built and released alone, free to play on Google Play in 178 countries. Unlocked 13 Nov 2026. Team size: 1. Opens the Google Play listing." src="readme/ach-v4c-game-light.svg" width="380"></picture></a>
-<a href="https://abdaishere.com/polyball/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4c-synth-dark.svg"><img alt="Achievement: Music with zero music files. Every note in PolyBall is synthesised while you play: 16 instruments, up to 12 notes at once, and no music files in the game. Opens PolyBall in your browser, sound on." src="readme/ach-v4c-synth-light.svg" width="380"></picture></a>
-<a href="https://github.com/Abdaishere/E-Jam/graphs/contributors"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4c-commits-dark.svg"><img alt="Achievement: Top committer on a team of five. E-Jam, my graduation project, a test bench for network switches: 243 commits on GitHub&#x27;s contributors graph, the next teammate 109, as of 21 Nov 2026. Opens the contributors graph." src="readme/ach-v4c-commits-light.svg" width="380"></picture></a>
-<a href="https://github.com/Abdaishere/monitor-buddy/releases/tag/v1.0.0"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4c-buddy-dark.svg"><img alt="Achievement: Monitor Buddy v1.0.0 is out, released on 21 Nov 2026. My MIT fork of IdefixRC&#x27;s Monitor-Buddy, a tiny ESP32 desk screen with a face: it chews at lunch and goes red when CI fails, and it updates over Wi-Fi with signed firmware. The base firmware, web flasher and holder are IdefixRC&#x27;s. Opens the release." src="readme/ach-v4c-buddy-light.svg" width="380"></picture></a>
-<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4c-bat-dark.svg"><img alt="Achievement: A bat bigger than the printer. An 84 cm baseball bat in red PETG from a printer whose box is 30 cm on every side, printed upright in pieces on a steel rod: 22 h 20 min of printing, 8 prints started and 5 of them stopped. Opens the write-up." src="readme/ach-v4c-bat-light.svg" width="380"></picture></a>
-<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4c-barrel-dark.svg"><img alt="Locked achievement: Barrel in one piece. Print the bat&#x27;s barrel in one go. The spool kept jamming, so the barrel came out in three pieces. Opens the write-up." src="readme/ach-v4c-barrel-light.svg" width="380"></picture></a>
+<a href="https://play.google.com/store/apps/details?id=com.polyball.game"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4d-game-dark.svg"><img alt="Achievement: Made a game alone. PolyBall, a rhythm game I designed, built and released alone, free to play on Google Play and in the browser. Unlocked 13 Nov 2026. Team size: 1. Opens the Google Play listing." src="readme/ach-v4d-game-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/polyball/#built"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4d-synth-dark.svg"><img alt="Achievement: Music with zero music files. Every note in PolyBall is synthesised while you play: 16 instruments, up to 12 notes at once, and no music files ship with the game. Opens How it&#x27;s built on the PolyBall page." src="readme/ach-v4d-synth-light.svg" width="380"></picture></a>
+<a href="https://github.com/Abdaishere/E-Jam/graphs/contributors"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4d-commits-dark.svg"><img alt="Achievement: Top committer on a team of five. E-Jam, my graduation project, a test bench for network switches: 243 commits on GitHub&#x27;s contributors graph, the next teammate 109, as of 21 Nov 2026. Opens the contributors graph." src="readme/ach-v4d-commits-light.svg" width="380"></picture></a>
+<a href="https://github.com/Abdaishere/monitor-buddy/releases/tag/v1.0.0"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4d-buddy-dark.svg"><img alt="Achievement: Monitor Buddy v1.0.0 is out, released on 21 Nov 2026. My MIT fork of IdefixRC&#x27;s Monitor-Buddy, a tiny ESP32 desk screen with a face: it chews at lunch and goes red when CI fails, and it updates over Wi-Fi with signed firmware. The base firmware, web flasher and holder are IdefixRC&#x27;s. Opens the release." src="readme/ach-v4d-buddy-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4d-bat-dark.svg"><img alt="Achievement: A bat bigger than the printer. An 84 cm baseball bat in red PETG from a printer whose box is 30 cm on every side, printed upright in pieces on a steel rod: 22 h 20 min of printing, 8 prints started and 5 of them stopped. Opens the write-up." src="readme/ach-v4d-bat-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4d-barrel-dark.svg"><img alt="Locked achievement: Barrel in one piece. Print the bat&#x27;s barrel in one go. A jamming spool and a ruler that was 11 mm out made it three pieces. Opens the write-up." src="readme/ach-v4d-barrel-light.svg" width="380"></picture></a>
 </p>
 
 ## Patch notes
@@ -76,7 +76,7 @@ A tiny ESP32 desk screen with a face. It's my fork of [IdefixRC's Monitor-Buddy]
 
 <a href="https://github.com/Abdaishere/E-Jam"><img alt="E-Jam, my graduation project: a test bench for network switches. The Flutter admin app's dashboard, and one stream walking through its states." src="readme/card-ejam.svg" width="100%"></a>
 
-It runs RFC 2544 and RFC 2889 benchmarks on network switches. My graduation project at Cairo University, built in collaboration with Siemens EDA, whose engineers were our mentors, sponsor and product owner. Five of us built it.
+It runs RFC 2544 and RFC 2889 benchmarks on network switches. It was my graduation project at Cairo University: five of us built it, with engineers from Siemens EDA as our mentors.
 
 I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that moves every stream, device and process through explicit state machines and reads the test statistics from Apache Kafka. The strip on the card is one stream's trip. I also built the Flutter admin app, the dashboard in the picture.
 
@@ -84,7 +84,7 @@ I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that m
 
 <br>
 
-<a href="https://abdaishere.com/prints/"><img alt="Off the printer: a sliced Panamera on an orange plate, a life-size baseball bat and gel blaster parts. The title prints itself, layer by layer." src="readme/card-prints.svg" width="100%"></a>
+<a href="https://abdaishere.com/prints/"><img alt="Off the printer: a sliced Panamera on an orange plate, a life-size baseball bat and gel blaster parts. The title prints itself, layer by layer." src="readme/card-prints-v4d.svg" width="100%"></a>
 
 I design the parts in code with CadQuery and print them on a Creality K1 Max, a box 30 cm on every side. So far: [an 84 cm baseball bat](https://abdaishere.com/prints/bat/), [a Panamera in 44 slices](https://abdaishere.com/prints/panamera-sculpture/) with two colours from one nozzle, [three gel blaster parts measured from phone photos](https://abdaishere.com/prints/blaster/) (the first trigger fit nowhere) and Monitor Buddy's dock. The tally on [the prints page](https://abdaishere.com/prints/): 4 projects, 37 h of plastic, 983 g, failed tries included.
 
@@ -92,7 +92,7 @@ They live on [abdaishere.com](https://abdaishere.com), my site, my own design an
 
 ## Inventory
 
-**Code** `Godot` `GDScript` `Rust` `Actix Web` `Apache Kafka` `Flutter` `Dart` `Supabase` `PostgreSQL` `Python` `CadQuery` `HTML` `CSS` `JavaScript` `Docker` `GitHub Actions` `Playwright` `Linux`<br>
+**Code** `Godot` `GDScript` `C++` `Rust` `Actix Web` `Apache Kafka` `Flutter` `Dart` `Supabase` `PostgreSQL` `Python` `CadQuery` `HTML` `CSS` `JavaScript` `Docker` `GitHub Actions` `Playwright` `Linux`<br>
 **Gear** `Creality K1 Max` `ESP32-C6`
 
 <details>
@@ -117,7 +117,7 @@ M117 Done: 84 cm bat, 30 cm printer
 M84              ; motors off
 ```
 
-<img alt="Hidden achievement unlocked: Read the G-code. You found the secret level, the only hidden achievement on this page." src="readme/secret-v4c.svg" width="400">
+<img alt="Hidden achievement unlocked: Read the G-code. You found the secret level, the only hidden achievement on this page." src="readme/secret-v4d.svg" width="400">
 
 </details>
 
