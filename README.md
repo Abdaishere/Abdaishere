@@ -13,12 +13,12 @@
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-star-dark.svg"><img alt="Star of the Month at Odoo, July 2026." src="readme/ach-star-light.svg" width="380"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-century-dark.svg"><img alt="100+ client projects at Odoo across the Gulf. Python and PostgreSQL, mostly stock and accounting." src="readme/ach-century-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-subsecond-dark.svg"><img alt="Under a second: a stock report that walked the whole stock list on every render now renders in under a second." src="readme/ach-subsecond-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-subsecond-dark.svg"><img alt="Stock aging, first version: I built the first version, and the report now renders in under a second." src="readme/ach-subsecond-light.svg" width="380"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-coach-dark.svg"><img alt="Coached two Odoo partners, and I review partner developers' code against Odoo's standards." src="readme/ach-coach-light.svg" width="380"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-shipped-dark.svg"><img alt="Shipped it: PolyBall, made alone, live on Google Play since 13 November 2026 and in the browser." src="readme/ach-shipped-light.svg" width="380"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-nomusic-dark.svg"><img alt="Zero music files: in PolyBall, 16 synth instruments play every note live, up to 12 at once." src="readme/ach-nomusic-light.svg" width="380"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-commits-dark.svg"><img alt="Top committer: 256 commits on E-Jam, my graduation project, the most in a team of five." src="readme/ach-commits-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-hidden-dark.svg"><img alt="Hidden achievement. There's a secret level at the bottom of this page." src="readme/ach-hidden-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-hidden-dark.svg"><img alt="Hidden achievement: there's a secret level at the bottom of this page." src="readme/ach-hidden-light.svg" width="380"></picture>
 </p>
 
 ## Main quest
@@ -39,7 +39,7 @@ I work with the client to find out what the business actually needs, map it to w
 + Requests go back and forth.
 + On purpose.
 + Mapping Odoo to two very large
-+ external systems. ~150 hours.
++ external systems. ~150 h so far.
 + PolyBall on Google Play,
 + 13 Nov 2026. 19 releases in.
 + Monitor Buddy went public.
@@ -53,7 +53,7 @@ I work with the client to find out what the business actually needs, map it to w
 
 I designed, built and released it alone. It's been on Google Play since 13 November 2026, and it runs in the browser with nothing to install.
 
-- **A synthesiser, not a soundtrack.** Every note is played at runtime: 16 instruments, up to 12 notes at once.
+- **Played live, never recorded.** Every note is played at runtime: 16 instruments, up to 12 notes at once.
 - **Leaderboard** on Supabase (PostgreSQL), with a monthly cup and anti-cheat on the server.
 - **GitHub Actions** builds six targets, and bots play 24 runs per pass with deliberate mistakes.
 - **15 languages**, with the Arabic right-to-left layout covered by tests.
@@ -64,7 +64,7 @@ I designed, built and released it alone. It's been on Google Play since 13 Novem
 
 <a href="https://github.com/Abdaishere/monitor-buddy"><img alt="Monitor Buddy, a tiny desk screen with a face. Its face going through the moods of a workday: locked in, CI failed, on air, lunch break. A polaroid of the real one. A fork of IdefixRC's Monitor-Buddy." src="readme/card-buddy.svg" width="100%"></a>
 
-It goes red when CI fails, says ON AIR while the mic is on, and chews during lunch. It's a fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware, the web flasher and the printed holder are their work. I added the personalisation, a laptop app, and a simulator: the real firmware running on a PC, where a whole workday passes in seconds. My keyboard dock, built on their holder, came off my printer.
+It goes red when CI fails, says ON AIR while the mic is on, and chews during lunch. It's a fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware, the web flasher and the printed holder are their work. I added the workday features (CI, calls, calendar, lunch), a laptop app, and a simulator: the real firmware running on a PC, where a whole workday passes in seconds. My keyboard dock, built on their holder, came off my printer.
 
 [Repository](https://github.com/Abdaishere/monitor-buddy) (MIT) · [The write-up](https://abdaishere.com/prints/monitor-buddy/)
 
@@ -82,9 +82,9 @@ I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that m
 
 <a href="https://abdaishere.com/prints/"><img alt="Off the printer: a sliced Panamera on an orange plate, a life-size baseball bat and gel blaster parts. The title prints itself, layer by layer." src="readme/card-prints.svg" width="100%"></a>
 
-My 3D prints live on [abdaishere.com](https://abdaishere.com), my site, which I designed and built in plain HTML, CSS and JavaScript, no framework. So far off the printer: [a life-size baseball bat](https://abdaishere.com/prints/bat/), [a sliced Panamera](https://abdaishere.com/prints/panamera-sculpture/), [gel blaster parts from phone photos](https://abdaishere.com/prints/blaster/) and Monitor Buddy's dock, built on IdefixRC's holder.
+My 3D prints live on [abdaishere.com](https://abdaishere.com), my site, which I designed and built in HTML, CSS and JavaScript, no framework. So far off the printer: [a life-size baseball bat](https://abdaishere.com/prints/bat/), [a sliced Panamera](https://abdaishere.com/prints/panamera-sculpture/), [gel blaster parts from phone photos](https://abdaishere.com/prints/blaster/) and Monitor Buddy's dock, built on IdefixRC's holder.
 
-[abdaishere.com](https://abdaishere.com) · [Site source](https://github.com/Abdaishere/abdaishere.github.io)
+[abdaishere.com](https://abdaishere.com) · [All the prints](https://abdaishere.com/prints/)
 
 ## Inventory
 
@@ -95,11 +95,11 @@ My 3D prints live on [abdaishere.com](https://abdaishere.com), my site, which I 
 <br>
 
 ```gcode
-; abdallah.gcode, a profile sliced for Saturday
-G28              ; home: Dubai
-G29              ; level the bed. Then the requirements.
+; abdallah.gcode, a profile, sliced
 M190 S60         ; wait for the bed
 M109 S215        ; wait for the nozzle
+G28              ; home: Dubai
+G29              ; level the bed. Then the requirements.
 G1 Z0.2 F600     ; first layer: the data model
 G1 X120 E6       ; then the code, custom only where it's needed
 M0               ; pause until the client says yes
