@@ -2,80 +2,92 @@
 
 <p align="center">
 <a href="https://abdaishere.com/polyball/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-play-dark.svg"><img alt="Play PolyBall in your browser" src="readme/btn-play-light.svg" height="40"></picture></a>
+<a href="https://github.com/Abdaishere/monitor-buddy/releases/tag/v1.0.0"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-buddy-v4b-dark.svg"><img alt="Monitor Buddy v1.0.0, the release" src="readme/btn-buddy-v4b-light.svg" height="40"></picture></a>
 <a href="https://abdaishere.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-site-dark.svg"><img alt="My site, abdaishere.com" src="readme/btn-site-light.svg" height="40"></picture></a>
-<a href="https://www.linkedin.com/in/abdallahelbelkasy"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-linkedin-dark.svg"><img alt="LinkedIn" src="readme/btn-linkedin-light.svg" height="40"></picture></a>
 </p>
 
-<p align="center"><b>This is where I play.</b> Games, desk gadgets, 3D prints and open source.<br>Up there is a run of PolyBall, the game I made. It's better with sound.</p>
+<p align="center"><b>I'm Abdallah (AbdA), in Dubai. I make games, desk gadgets and 3D prints for fun.</b><br>Up there is a run of PolyBall, a rhythm game I made alone: free to play on Google Play and in your browser. Better with sound.</p>
 
 ## Achievements
 
+<p align="center"><b>5 of 6 unlocked</b>, 1 hidden. Every card opens its proof.</p>
+
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-shipped-dark.svg"><img alt="Shipped it: PolyBall, made alone, live on Google Play since 13 November 2026 and in the browser." src="readme/ach-shipped-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-nomusic-dark.svg"><img alt="Zero music files: in PolyBall, 16 synth instruments play every note live, up to 12 at once." src="readme/ach-nomusic-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-bots-dark.svg"><img alt="Bots on QA duty: in PolyBall's GitHub Actions, bots play 24 runs per pass and make mistakes on purpose." src="readme/ach-bots-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-polyglot-dark.svg"><img alt="Speaks 15 languages: PolyBall, with the Arabic right-to-left layout covered by tests." src="readme/ach-polyglot-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-commits-dark.svg"><img alt="Top committer: 256 commits on E-Jam, my graduation project, the most in a team of five." src="readme/ach-commits-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-mit-dark.svg"><img alt="Went public: Monitor Buddy, my fork of IdefixRC's desk screen. Open source, MIT." src="readme/ach-mit-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-bat-dark.svg"><img alt="Life-size bat: a baseball bat at full size, off my own 3D printer." src="readme/ach-bat-light.svg" width="380"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-hidden-dark.svg"><img alt="Hidden achievement: there's a secret level at the bottom of this page." src="readme/ach-hidden-light.svg" width="380"></picture>
+<a href="https://play.google.com/store/apps/details?id=com.polyball.game"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4b-game-dark.svg"><img alt="Achievement: Made a game alone. PolyBall, a rhythm game I designed, built and released alone, free to play on Google Play in 178 countries. Unlocked 13 Nov 2026. Team size: 1. Opens the Google Play listing." src="readme/ach-v4b-game-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/polyball/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4b-synth-dark.svg"><img alt="Achievement: Music with zero music files. Every note in PolyBall is synthesised while you play: 16 instruments, up to 12 notes at once, and no music files in the game. Opens PolyBall in your browser, sound on." src="readme/ach-v4b-synth-light.svg" width="380"></picture></a>
+<a href="https://github.com/Abdaishere/E-Jam/graphs/contributors"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4b-commits-dark.svg"><img alt="Achievement: Top committer on a team of five. E-Jam, my graduation project, a test bench for network switches: 243 commits on GitHub&#x27;s contributors graph, the next teammate 109, as of 21 Nov 2026. Opens the contributors graph." src="readme/ach-v4b-commits-light.svg" width="380"></picture></a>
+<a href="https://github.com/Abdaishere/monitor-buddy/releases/tag/v1.0.0"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4b-buddy-dark.svg"><img alt="Achievement: Monitor Buddy v1.0.0 is out, released on 21 Nov 2026. My MIT fork of IdefixRC&#x27;s Monitor-Buddy, a tiny ESP32 desk screen with a face: it chews at lunch and goes red when CI fails, and it updates over Wi-Fi with signed firmware. The base firmware, web flasher and holder are IdefixRC&#x27;s. Opens the release." src="readme/ach-v4b-buddy-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4b-bat-dark.svg"><img alt="Achievement: A bat bigger than the printer. An 84 cm baseball bat in red PETG from a printer whose box is 30 cm on every side, printed upright in pieces on a steel rod: 22 h 20 min of printing, 8 prints started and 5 of them stopped. Opens the write-up." src="readme/ach-v4b-bat-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4b-barrel-dark.svg"><img alt="Locked achievement: Barrel in one piece. Print the bat&#x27;s barrel in one go. The spool kept jamming, so the barrel came out in three pieces. Opens the write-up." src="readme/ach-v4b-barrel-light.svg" width="380"></picture></a>
 </p>
 
 ## Patch notes
 
 ```diff
-@@ lately @@
-+ PolyBall on Google Play,
-+ 13 Nov 2026. 19 releases in.
-+ Monitor Buddy went public.
-+ Web boot freeze: 9.2 s to 5.7 s.
+@@ polyball @@
++ On Google Play, 13 Nov.
++ 19 releases in.
++ Browser boot freeze:
++ 9.2 s down to 5.7 s.
 + Windows build: 32 MB lighter.
-- Every music file in PolyBall.
-- There were never any.
+@@ monitor-buddy @@
++ v1.0.0 is out, 21 Nov.
+- Dock resets the board.
++ Dock v8 doesn't.
 ```
 
 ## Side quests
 
 <a href="https://abdaishere.com/polyball/play/"><img alt="PolyBall, a rhythm game I made alone. Every note you hear, you played. Live gameplay next to the home screen." src="readme/card-polyball.gif" width="100%"></a>
 
-I designed, built and released it alone. It's been on Google Play since 13 November 2026, and it runs in the browser with nothing to install.
+I designed, built and released it alone. Closed source, free to play: on Google Play since 13 November 2026, and in the browser with nothing to install.
 
-- **Played live, never recorded.** Every note is played at runtime: 16 instruments, up to 12 notes at once.
-- **Leaderboard** on Supabase (PostgreSQL), with a monthly cup and anti-cheat on the server.
-- **GitHub Actions** builds six targets, and bots play 24 runs per pass with deliberate mistakes.
+- **The band joins as your streak grows.** Bass at 2, arpeggio at 5, lead at 8. Hit Fever and the whole screen turns gold. One miss and it all stops.
+- **Bots test it.** CI on GitHub Actions across six build targets, and bots play 24 runs per pass, missing on purpose.
 - **15 languages**, with the Arabic right-to-left layout covered by tests.
+- **Leaderboard** on Supabase (PostgreSQL), with a monthly cup and anti-cheat on the server.
 
-**[Play it in your browser](https://abdaishere.com/polyball/play/)** · [Google Play](https://play.google.com/store/apps/details?id=com.polyball.game) · [How it's built](https://abdaishere.com/polyball/) · The source is private.
+**PolyBall, any%, 19 releases.** Splits from the [public releases page](https://github.com/Abdaishere/abdaishere.github.io/releases):
+
+| Split | Release | Date |
+|:-:|:-|:-|
+| 1 | v0.9.2, the first one there | 19 Sep 2026 |
+| 6 to 8 | v0.9.8, v0.9.9 and v0.9.10: three in one day | 1 Oct 2026 |
+| 9 | v0.10.0 | 2 Oct 2026 |
+| 19 | v0.10.11, on Google Play | 13 Nov 2026 |
+
+**[Play it in your browser](https://abdaishere.com/polyball/play/)** · [Google Play](https://play.google.com/store/apps/details?id=com.polyball.game) · [How it's built](https://abdaishere.com/polyball/#built)
 
 <br>
 
 <a href="https://github.com/Abdaishere/monitor-buddy"><img alt="Monitor Buddy, a tiny desk screen with a face. Its face going through its moods at the desk: locked in, CI failed, on air, lunch break. A polaroid of the real one. A fork of IdefixRC's Monitor-Buddy." src="readme/card-buddy.svg" width="100%"></a>
 
-It goes red when CI fails, says ON AIR while the mic is on, and chews during lunch. It's a fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware, the web flasher and the printed holder are theirs. I added the desk features (CI, calls, calendar, lunch), a laptop app, and a simulator: the real firmware running on a PC, where a whole day at the desk passes in seconds. My keyboard dock, built on their holder, came off my printer.
+A tiny ESP32 desk screen with a face, and my fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware, the web flasher and the printed holder are theirs. I added the desk features (it chews at lunch, goes red when CI fails, says ON AIR while the mic is on), a Linux helper app packaged as a .deb, signed updates over Wi-Fi, sealed Wi-Fi credentials (AES-256-GCM) and a simulator: the real firmware running on a PC, where a whole day at the desk passes in seconds. Its keyboard dock, built on their holder, came off my printer. Version 8 was the first that stopped resetting the board.
 
-[Repository](https://github.com/Abdaishere/monitor-buddy) (MIT) · [The write-up](https://abdaishere.com/prints/monitor-buddy/)
+[Release v1.0.0](https://github.com/Abdaishere/monitor-buddy/releases/tag/v1.0.0) · [Repository](https://github.com/Abdaishere/monitor-buddy) (MIT) · [The write-up](https://abdaishere.com/prints/monitor-buddy/)
 
 <br>
 
 <a href="https://github.com/Abdaishere/E-Jam"><img alt="E-Jam, my graduation project: a test bench for network switches. The Flutter admin app's dashboard, and one stream walking through its states." src="readme/card-ejam.svg" width="100%"></a>
 
-It runs RFC 2544 and RFC 2889 benchmarks. My graduation project at Cairo University, built in collaboration with Siemens EDA, whose engineers were our mentors, sponsor and product owner. Five of us built it.
+It runs RFC 2544 and RFC 2889 benchmarks on network switches. My graduation project at Cairo University, built in collaboration with Siemens EDA, whose engineers were our mentors, sponsor and product owner. Five of us built it.
 
-I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that moves every stream, device and process through explicit state machines and reads the test statistics from Apache Kafka. The strip on the card is one stream's trip. I also built the Flutter admin app, the dashboard in the picture. 256 commits, the most on the team.
+I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that moves every stream, device and process through explicit state machines and reads the test statistics from Apache Kafka. The strip on the card is one stream's trip. I also built the Flutter admin app, the dashboard in the picture.
 
-[Repository](https://github.com/Abdaishere/E-Jam) (MIT) · [Project page](https://abdaishere.com/e-jam/)
+[Repository](https://github.com/Abdaishere/E-Jam) (MIT) · [Contributors](https://github.com/Abdaishere/E-Jam/graphs/contributors) · [Project page](https://abdaishere.com/e-jam/)
 
 <br>
 
 <a href="https://abdaishere.com/prints/"><img alt="Off the printer: a sliced Panamera on an orange plate, a life-size baseball bat and gel blaster parts. The title prints itself, layer by layer." src="readme/card-prints.svg" width="100%"></a>
 
-My 3D prints live on [abdaishere.com](https://abdaishere.com), my site, which I designed and built in HTML, CSS and JavaScript, no framework. So far off the printer: [a life-size baseball bat](https://abdaishere.com/prints/bat/), [a sliced Panamera](https://abdaishere.com/prints/panamera-sculpture/), [gel blaster parts from phone photos](https://abdaishere.com/prints/blaster/) and Monitor Buddy's dock, built on IdefixRC's holder.
+I design the parts in code with CadQuery and print them on a Creality K1 Max, a box 30 cm on every side. So far: [an 84 cm baseball bat](https://abdaishere.com/prints/bat/), [a Panamera in 44 slices](https://abdaishere.com/prints/panamera-sculpture/) with two colours from one nozzle, [three gel blaster parts measured from phone photos](https://abdaishere.com/prints/blaster/) (the first trigger fit nowhere) and Monitor Buddy's dock. The tally on [the prints page](https://abdaishere.com/prints/): 4 projects, 37 h of plastic, 983 g, failed tries included.
 
-[abdaishere.com](https://abdaishere.com) · [All the prints](https://abdaishere.com/prints/)
+They live on [abdaishere.com](https://abdaishere.com), my site, my own design and build in HTML, CSS and JavaScript, no framework.
 
 ## Inventory
 
-`Python` `PostgreSQL` `JavaScript` `HTML` `CSS` `Rust` `Actix Web` `Apache Kafka` `Flutter` `Dart` `Godot` `Supabase` `Docker` `GitHub Actions` `Playwright` `Linux`
+**Code** `Godot` `GDScript` `Rust` `Actix Web` `Apache Kafka` `Flutter` `Dart` `Supabase` `PostgreSQL` `Python` `CadQuery` `HTML` `CSS` `JavaScript` `Docker` `GitHub Actions` `Playwright` `Linux`<br>
+**Gear** `Creality K1 Max` `ESP32-C6`
 
 <details>
 <summary><b>Secret level</b></summary>
@@ -83,6 +95,7 @@ My 3D prints live on [abdaishere.com](https://abdaishere.com), my site, which I 
 
 ```gcode
 ; abdallah.gcode, a profile, sliced
+; save file created: Dec 2019
 M190 S60         ; wait for the bed
 M109 S215        ; wait for the nozzle
 G28              ; home: Dubai
@@ -93,11 +106,12 @@ M0               ; pause to admire it
 M300 S523 P150   ; C
 M300 S659 P150   ; E
 M300 S784 P300   ; G. Every note you hear, you played.
-M117 Done          ; one baseball bat, life-size.
+; ICPC 2021: contestant
+M117 Done: 84 cm bat, 30 cm printer
 M84              ; motors off
 ```
 
-Achievement unlocked. That's all of them.
+<img alt="Hidden achievement unlocked: Read the G-code. You found the secret level, the only hidden achievement on this page." src="readme/secret-v4b.svg" width="400">
 
 </details>
 
@@ -112,4 +126,4 @@ Achievement unlocked. That's all of them.
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/continue-dark.svg"><img alt="Continue? An arcade countdown." src="readme/continue-light.svg" width="380"></picture></p>
 
-<p align="center"><a href="https://abdaishere.com">abdaishere.com</a> · <a href="https://www.linkedin.com/in/abdallahelbelkasy">LinkedIn</a> · <a href="https://abdaishere.com/polyball/play/">Play PolyBall</a></p>
+<p align="center"><a href="https://abdaishere.com">abdaishere.com</a> · <a href="https://abdaishere.com/polyball/play/">Play PolyBall</a> · <a href="https://github.com/Abdaishere/monitor-buddy">Monitor Buddy</a> · <a href="https://www.linkedin.com/in/abdallahelbelkasy">LinkedIn</a></p>
