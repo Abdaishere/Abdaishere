@@ -16,7 +16,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme/numbers-dark.svg">
-  <img alt="100+ client projects at Odoo, across the Gulf. 19 releases of PolyBall, September to November 2026. 0 music files in PolyBall: you play them." src="readme/numbers-light.svg" width="600">
+  <img alt="100+ client projects at Odoo, across the Gulf. 19 releases of PolyBall, September to November 2026. 0 music files in PolyBall: you play them." src="readme/numbers-light.svg" width="560">
 </picture>
 </p>
 
@@ -87,3 +87,5 @@ Off the bed lives on [abdaishere.com](https://abdaishere.com), my site, which I 
 </picture>
 
 <p align="center"><sub>My contribution graph, eaten daily by a snake. It's a GitHub Action; I just feed it commits.</sub></p>
+
+<p align="center"><a href="https://abdaishere.com">abdaishere.com</a> · <a href="https://www.linkedin.com/in/abdallahelbelkasy">LinkedIn</a></p>
