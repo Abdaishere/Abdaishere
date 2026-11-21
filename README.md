@@ -1,7 +1,4 @@
-<a href="https://abdaishere.com"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readme/header-dark.svg">
-  <img alt="Abdallah El Belkasy, software engineer at Odoo in Dubai. Next to the name, a run of PolyBall, the rhythm game I made: the ring turns, each ball lands on its own colour, and every catch adds a note." src="readme/header-light.svg" width="100%">
-</picture></a>
+<a href="https://abdaishere.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/header-dark.svg"><img alt="Abdallah El Belkasy, software engineer at Odoo in Dubai. Next to the name, a run of PolyBall, the rhythm game I made: the ring turns, each ball lands on its own colour, and every catch adds a note." src="readme/header-light.svg" width="100%"></picture></a>
 
 <p align="center">
 <a href="https://abdaishere.com/polyball/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-play-dark.svg"><img alt="Play PolyBall in your browser" src="readme/btn-play-light.svg" height="40"></picture></a>
@@ -38,11 +35,16 @@ I work with the client to find out what the business actually needs, map it to w
 
 ```diff
 @@ lately @@
-+ Building a multi-step approval system. Requests go back and forth between steps. On purpose.
-+ Mapping an integration between Odoo and two very large external systems. About 150 hours of it.
-+ Shipped PolyBall to Google Play on 13 November 2026, after 19 tagged releases.
-+ Monitor Buddy, my desk screen, is public now.
-- Removed every music file from PolyBall. There were never any.
++ Multi-step approvals.
++ Requests go back and forth.
++ On purpose.
++ Mapping Odoo to two very large
++ external systems. ~150 hours.
++ PolyBall on Google Play,
++ 13 Nov 2026. 19 releases in.
++ Monitor Buddy went public.
+- Every music file in PolyBall.
+- There were never any.
 ```
 
 ## Side quests
@@ -62,7 +64,7 @@ I designed, built and released it alone. It's been on Google Play since 13 Novem
 
 <a href="https://github.com/Abdaishere/monitor-buddy"><img alt="Monitor Buddy, a tiny desk screen with a face. Its face going through the moods of a workday: locked in, CI failed, on air, lunch break. A polaroid of the real one. A fork of IdefixRC's Monitor-Buddy." src="readme/card-buddy.svg" width="100%"></a>
 
-It goes red when CI fails, says ON AIR while the mic is on, and chews during lunch. It's a fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware and most of the installer are their work. I added the personalisation, a laptop app, and a simulator: the real firmware running on a PC, where a whole workday passes in seconds. The keyboard dock came off my printer.
+It goes red when CI fails, says ON AIR while the mic is on, and chews during lunch. It's a fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware, the web flasher and the printed holder are their work. I added the personalisation, a laptop app, and a simulator: the real firmware running on a PC, where a whole workday passes in seconds. My keyboard dock, built on their holder, came off my printer.
 
 [Repository](https://github.com/Abdaishere/monitor-buddy) (MIT) · [The write-up](https://abdaishere.com/prints/monitor-buddy/)
 
