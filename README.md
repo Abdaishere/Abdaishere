@@ -71,7 +71,7 @@ I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that m
 
 <a href="https://abdaishere.com/prints/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/card-prints-dark.jpg"><img alt="Off the bed, my 3D prints: a sliced Panamera on an orange plate, a life-size baseball bat, Monitor Buddy on its dock and two gel blaster parts." src="readme/card-prints-light.jpg" width="100%"></picture></a>
 
-My 3D prints live on [abdaishere.com](https://abdaishere.com), my site, which I designed and built in plain HTML, CSS and JavaScript, no framework. It also holds my CV and the project pages. So far off the printer: [a life-size baseball bat](https://abdaishere.com/prints/bat/), [a sliced Panamera](https://abdaishere.com/prints/panamera-sculpture/), [gel blaster parts from phone photos](https://abdaishere.com/prints/blaster/) and Monitor Buddy's dock, built on IdefixRC's holder.
+My 3D prints live on [abdaishere.com](https://abdaishere.com), my site, which I designed and built in plain HTML, CSS and JavaScript, no framework. It also holds the project pages. So far off the printer: [a life-size baseball bat](https://abdaishere.com/prints/bat/), [a sliced Panamera](https://abdaishere.com/prints/panamera-sculpture/), [gel blaster parts from phone photos](https://abdaishere.com/prints/blaster/) and Monitor Buddy's dock, built on IdefixRC's holder.
 
 [abdaishere.com](https://abdaishere.com) · [Site source](https://github.com/Abdaishere/abdaishere.github.io)
 
