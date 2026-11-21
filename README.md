@@ -10,8 +10,6 @@
 
 ## Achievements
 
-<p align="center"><sub>Seven of eight unlocked. The last one is hiding.</sub></p>
-
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-star-dark.svg"><img alt="Star of the Month at Odoo, July 2026." src="readme/ach-star-light.svg" width="380"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-century-dark.svg"><img alt="100+ client projects at Odoo across the Gulf. Python and PostgreSQL, mostly stock and accounting." src="readme/ach-century-light.svg" width="380"></picture>
@@ -32,8 +30,6 @@ I work with the client to find out what the business actually needs, map it to w
 - **Stock aging.** I designed and built the first version of a stock aging layer. The report used to walk the whole stock list on every render. Now it renders in under a second.
 - **Billing for a logistics client.** The biggest system I've built: postpaid billing for storage and handling, prepaid for rented floor space. It arrived as a vague request, so I cut it into small pieces and agreed each one with the client.
 - **Other people's code.** I review partner developers' code against Odoo's standards, and I've coached two partners.
-
-<img alt="Loading screen tips, from how I work: Find out what the business needs before you write a line. Check what Odoo already does, custom code only where it doesn't. A vague request is a pile of small pieces nobody has cut yet. Don't walk the whole stock list on every render, store the answer when the stock moves. Every note in PolyBall is synthesised live, there are zero music files." src="readme/tips.svg" width="100%">
 
 ## Patch notes
 
@@ -115,7 +111,7 @@ M117 Done          ; one baseball bat, life-size.
 M84              ; motors off
 ```
 
-<p align="center"><img alt="Achievement unlocked, the last one: Read all the way down. Nobody does. Respect." src="readme/secret.svg" width="480"></p>
+Achievement unlocked. That's all of them.
 
 </details>
 
