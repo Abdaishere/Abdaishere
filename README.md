@@ -66,7 +66,7 @@ A tiny ESP32 desk screen with a face. It's my fork of [IdefixRC's Monitor-Buddy]
 
 - **Desk features.** It chews at lunch, goes red when CI fails and says ON AIR while the mic is on.
 - **A Linux helper app**, packaged as a .deb.
-- **Signed updates over Wi-Fi**, and Wi-Fi credentials sealed with AES-256-GCM.
+- **Signed updates over Wi-Fi**, and Wi-Fi credentials sealed with `AES-256-GCM`.
 - **A simulator:** the real firmware running on a PC, where a whole day at the desk passes in seconds.
 - **A keyboard dock**, built on their holder and printed on my printer. Version 8 was the first that stopped resetting the board.
 
