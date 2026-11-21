@@ -28,7 +28,7 @@
 + PolyBall on Google Play,
 + 13 Nov 2026. 19 releases in.
 + Monitor Buddy went public.
-+ Web boot: 9.2 s to 5.7 s.
++ Web boot freeze: 9.2 s to 5.7 s.
 + Windows build: 32 MB lighter.
 - Every music file in PolyBall.
 - There were never any.
