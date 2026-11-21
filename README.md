@@ -1,44 +1,115 @@
-# Abdallah El Belkasy
+<a href="https://abdaishere.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/header-dark.svg"><img alt="Abdallah El Belkasy: games, gadgets and 3D prints. Next to the name, a run of PolyBall, the rhythm game I made: the ring turns, each ball lands on its own colour, and every catch adds a note." src="readme/header-light.svg" width="100%"></picture></a>
 
-Software engineer at Odoo in Dubai. I work out what a business needs, turn it into a data model and a delivery plan, and then build it.
+<p align="center">
+<a href="https://abdaishere.com/polyball/play/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-play-dark.svg"><img alt="Play PolyBall in your browser" src="readme/btn-play-light.svg" height="40"></picture></a>
+<a href="https://abdaishere.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-site-dark.svg"><img alt="My site, abdaishere.com" src="readme/btn-site-light.svg" height="40"></picture></a>
+<a href="https://www.linkedin.com/in/abdallahelbelkasy"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/btn-linkedin-dark.svg"><img alt="LinkedIn" src="readme/btn-linkedin-light.svg" height="40"></picture></a>
+</p>
 
-Site: [abdaishere.com](https://abdaishere.com)
+<p align="center"><b>This is where I play.</b> Games, desk gadgets, 3D prints and open source.<br>Up there is a run of PolyBall, the game I made. It's better with sound.</p>
 
-## Work
+## Achievements
 
-**Odoo, Software Engineer.** Dubai, April 2025 to now.
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-shipped-dark.svg"><img alt="Shipped it: PolyBall, made alone, live on Google Play since 13 November 2026 and in the browser." src="readme/ach-shipped-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-nomusic-dark.svg"><img alt="Zero music files: in PolyBall, 16 synth instruments play every note live, up to 12 at once." src="readme/ach-nomusic-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-bots-dark.svg"><img alt="Bots on QA duty: in PolyBall's GitHub Actions, bots play 24 runs per pass and make mistakes on purpose." src="readme/ach-bots-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-polyglot-dark.svg"><img alt="Speaks 15 languages: PolyBall, with the Arabic right-to-left layout covered by tests." src="readme/ach-polyglot-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-commits-dark.svg"><img alt="Top committer: 256 commits on E-Jam, my graduation project, the most in a team of five." src="readme/ach-commits-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-mit-dark.svg"><img alt="Went public: Monitor Buddy, my fork of IdefixRC's desk screen. Open source, MIT." src="readme/ach-mit-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-bat-dark.svg"><img alt="Life-size bat: a baseball bat at full size, off my own 3D printer." src="readme/ach-bat-light.svg" width="380"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-hidden-dark.svg"><img alt="Hidden achievement: there's a secret level at the bottom of this page." src="readme/ach-hidden-light.svg" width="380"></picture>
+</p>
 
-Python and PostgreSQL on 100+ enterprise client projects across the Gulf, mainly in stock and accounting. I designed and built the first version of a stock aging layer for a slow stock report that now renders in under a second, and built the billing system for a third-party logistics client. I also review partner developers' code and have coached two partners.
+## Patch notes
 
-## Projects
+```diff
+@@ lately @@
++ PolyBall on Google Play,
++ 13 Nov 2026. 19 releases in.
++ Monitor Buddy went public.
++ Web boot freeze: 9.2 s to 5.7 s.
++ Windows build: 32 MB lighter.
+- Every music file in PolyBall.
+- There were never any.
+```
 
-### PolyBall
+## Side quests
 
-A rhythm game I designed, built and released alone, in Godot 4. It has been live on Google Play since 13 November 2026 and also runs on itch.io, GameJolt and the web.
+<a href="https://abdaishere.com/polyball/play/"><img alt="PolyBall, a rhythm game I made alone. Every note you hear, you played. Live gameplay next to the home screen." src="readme/card-polyball.gif" width="100%"></a>
 
-- The audio engine plays every note at runtime from 16 synthesised instruments, up to 12 notes at once. The game ships no music files.
-- The leaderboard runs on Supabase (PostgreSQL), with a monthly cup and anti-cheat on the server.
-- GitHub Actions builds six targets. Bots play 24 runs per pass and make mistakes on purpose.
-- 15 locales. Automated tests cover the Arabic right-to-left layout.
+I designed, built and released it alone. It's been on Google Play since 13 November 2026, and it runs in the browser with nothing to install.
 
-The source is private. [Project page](https://abdaishere.com/polyball/) · [Google Play](https://play.google.com/store/apps/details?id=com.polyball.game)
+- **Played live, never recorded.** Every note is played at runtime: 16 instruments, up to 12 notes at once.
+- **Leaderboard** on Supabase (PostgreSQL), with a monthly cup and anti-cheat on the server.
+- **GitHub Actions** builds six targets, and bots play 24 runs per pass with deliberate mistakes.
+- **15 languages**, with the Arabic right-to-left layout covered by tests.
 
-### E-Jam
+**[Play it in your browser](https://abdaishere.com/polyball/play/)** · [Google Play](https://play.google.com/store/apps/details?id=com.polyball.game) · [How it's built](https://abdaishere.com/polyball/) · The source is private.
 
-My graduation project at Cairo University (2022 to 2023), built in collaboration with Siemens EDA, whose engineers were our mentors, sponsor and product owner. It is a distributed test bench that runs RFC 2544 and RFC 2889 benchmarks on network switches. Five of us built it.
+<br>
 
-My part was Center Point, the control plane in Rust on Actix Web, and the Flutter admin client. Center Point's REST API drives every stream, device and process through explicit state machines and reads the test statistics from Apache Kafka.
+<a href="https://github.com/Abdaishere/monitor-buddy"><img alt="Monitor Buddy, a tiny desk screen with a face. Its face going through its moods at the desk: locked in, CI failed, on air, lunch break. A polaroid of the real one. A fork of IdefixRC's Monitor-Buddy." src="readme/card-buddy.svg" width="100%"></a>
+
+It goes red when CI fails, says ON AIR while the mic is on, and chews during lunch. It's a fork of [IdefixRC's Monitor-Buddy](https://github.com/IdefixRC/Monitor-Buddy): the base firmware, the web flasher and the printed holder are theirs. I added the desk features (CI, calls, calendar, lunch), a laptop app, and a simulator: the real firmware running on a PC, where a whole day at the desk passes in seconds. My keyboard dock, built on their holder, came off my printer.
+
+[Repository](https://github.com/Abdaishere/monitor-buddy) (MIT) · [The write-up](https://abdaishere.com/prints/monitor-buddy/)
+
+<br>
+
+<a href="https://github.com/Abdaishere/E-Jam"><img alt="E-Jam, my graduation project: a test bench for network switches. The Flutter admin app's dashboard, and one stream walking through its states." src="readme/card-ejam.svg" width="100%"></a>
+
+It runs RFC 2544 and RFC 2889 benchmarks. My graduation project at Cairo University, built in collaboration with Siemens EDA, whose engineers were our mentors, sponsor and product owner. Five of us built it.
+
+I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that moves every stream, device and process through explicit state machines and reads the test statistics from Apache Kafka. The strip on the card is one stream's trip. I also built the Flutter admin app, the dashboard in the picture. 256 commits, the most on the team.
 
 [Repository](https://github.com/Abdaishere/E-Jam) (MIT) · [Project page](https://abdaishere.com/e-jam/)
 
-### abdaishere.com
+<br>
 
-My site, with the project pages. Published from [abdaishere.github.io](https://github.com/Abdaishere/abdaishere.github.io).
+<a href="https://abdaishere.com/prints/"><img alt="Off the printer: a sliced Panamera on an orange plate, a life-size baseball bat and gel blaster parts. The title prints itself, layer by layer." src="readme/card-prints.svg" width="100%"></a>
 
-## Tools
+My 3D prints live on [abdaishere.com](https://abdaishere.com), my site, which I designed and built in HTML, CSS and JavaScript, no framework. So far off the printer: [a life-size baseball bat](https://abdaishere.com/prints/bat/), [a sliced Panamera](https://abdaishere.com/prints/panamera-sculpture/), [gel blaster parts from phone photos](https://abdaishere.com/prints/blaster/) and Monitor Buddy's dock, built on IdefixRC's holder.
 
-Python, SQL, PostgreSQL, Rust, JavaScript, Dart and Flutter, Godot, Docker, Linux, GitHub Actions.
+[abdaishere.com](https://abdaishere.com) · [All the prints](https://abdaishere.com/prints/)
 
-## Contact
+## Inventory
 
-[abdaishere.com](https://abdaishere.com) · [LinkedIn](https://www.linkedin.com/in/abdallahelbelkasy)
+`Python` `PostgreSQL` `JavaScript` `HTML` `CSS` `Rust` `Actix Web` `Apache Kafka` `Flutter` `Dart` `Godot` `Supabase` `Docker` `GitHub Actions` `Playwright` `Linux`
+
+<details>
+<summary><b>Secret level</b></summary>
+<br>
+
+```gcode
+; abdallah.gcode, a profile, sliced
+M190 S60         ; wait for the bed
+M109 S215        ; wait for the nozzle
+G28              ; home: Dubai
+G29              ; level the bed. Then level the idea.
+G1 Z0.2 F600     ; first layer: a sketch on paper
+G1 X120 E6       ; then a prototype, ugly on purpose
+M0               ; pause to admire it
+M300 S523 P150   ; C
+M300 S659 P150   ; E
+M300 S784 P300   ; G. Every note you hear, you played.
+M117 Done          ; one baseball bat, life-size.
+M84              ; motors off
+```
+
+Achievement unlocked. That's all of them.
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdaishere/Abdaishere/output/github-snake-dark.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Abdaishere/Abdaishere/output/github-snake.svg" width="100%">
+</picture>
+
+<p align="center"><sub>My contribution graph, eaten daily by a snake. It's a GitHub Action; I just feed it commits.</sub></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/continue-dark.svg"><img alt="Continue? An arcade countdown." src="readme/continue-light.svg" width="380"></picture></p>
+
+<p align="center"><a href="https://abdaishere.com">abdaishere.com</a> · <a href="https://www.linkedin.com/in/abdallahelbelkasy">LinkedIn</a> · <a href="https://abdaishere.com/polyball/play/">Play PolyBall</a></p>
