@@ -84,7 +84,7 @@ I wrote Center Point, the control plane, in Rust on Actix Web: a REST API that m
 
 <br>
 
-<a href="https://abdaishere.com/prints/"><img alt="Off the printer: a sliced Panamera on an orange plate, a life-size baseball bat and gel blaster parts. The title prints itself, layer by layer." src="readme/card-prints-v4e.svg" width="100%"></a>
+<a href="https://abdaishere.com/prints/"><img alt="Off the printer: renders of three things I printed on my K1 Max: an 84 cm baseball bat, a Panamera in 44 slices on a red plate, and Monitor Buddy on its keyboard dock. The title prints itself, layer by layer." src="readme/card-prints-v4f.svg" width="100%"></a>
 
 I design the parts in code with CadQuery and print them on a Creality K1 Max, a box 30 cm on every side. So far: [an 84 cm baseball bat](https://abdaishere.com/prints/bat/), [a Panamera in 44 slices](https://abdaishere.com/prints/panamera-sculpture/) with two colours from one nozzle, [three gel blaster parts measured from phone photos](https://abdaishere.com/prints/blaster/) (the first trigger fit nowhere) and Monitor Buddy's dock. The tally on [the prints page](https://abdaishere.com/prints/): 4 projects, 37 h of plastic, 983 g, failed tries included.
 
