@@ -21,15 +21,15 @@
 <a href="https://abdaishere.com/prints/bat/#pieces"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5b-barrel-dark.svg"><img alt="Locked trophy: Barrel in one piece. Print the bat&#x27;s barrel in one go. A jamming spool and a ruler that was 11 mm out made it three pieces. Opens that part of the write-up." src="readme/ach-v5b-barrel-light.svg" width="380"></picture></a>
 </p>
 
+<div align="center">
 <details>
 <summary><b>Scrap bin</b>: 3 more, all from the printer</summary>
 <br>
-<p align="center">
 <a href="https://abdaishere.com/prints/bat/#gap"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5b-p97-dark.svg"><img alt="Trophy: 97%. On 12 Oct 2026 one plate of bat parts got to 97%, then the coupler came off its brim and the last layers went into the air as strings. The print was paused at 08:29. The coupler was sanded flat and kept. Opens that part of the write-up." src="readme/ach-v5b-p97-light.svg" width="380"></picture></a>
 <a href="https://abdaishere.com/prints/panamera-sculpture/#print"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5b-supports-dark.svg"><img alt="Trophy: 44,275. That is how many support moves the slicer wanted for my Panamera sculpture, almost all of them inside the wheel arches. I redrew it so that nothing needs support. 44 slices, eight versions drawn in code. Opens that part of the write-up." src="readme/ach-v5b-supports-light.svg" width="380"></picture></a>
 <a href="https://abdaishere.com/prints/blaster/#trigger"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5b-trigger-dark.svg"><img alt="Trophy: Fits nowhere. My first printed trigger for a toy gel blaster was thicker than the one it replaced, its pivot pin stuck out of the wrong face, and it fit nowhere. Three parts took 11 prints in all, and the rebuilt trigger&#x27;s outline overlaps the original&#x27;s silhouette by 91%. Opens that part of the write-up." src="readme/ach-v5b-trigger-light.svg" width="380"></picture></a>
-</p>
 </details>
+</div>
 
 <p align="center"><sub>GitHub gave me <a href="https://github.com/Abdaishere?tab=achievements">three of its own</a>: Pull Shark x2, Quickdraw and YOLO. YOLO took <a href="https://github.com/Abdaishere/E-Jam/pull/21">one typo fix in my own repo</a>, merged 3 seconds after I opened it, with zero reviews. That one was free. These were not.</sub></p>
 
@@ -61,12 +61,12 @@ I designed, built and released it alone. Closed source, free to play: on Google 
 
 **PolyBall, any%: 19 releases in 55 days.** Splits from the [public releases page](https://github.com/Abdaishere/abdaishere.github.io/releases):
 
-| Split | Release | Date | Time |
-|:-:|:-|:-|:-|
-| 1 | v0.9.2, the first one there | 19 Sep 2026 | day 0 |
-| 6 to 8 | v0.9.8, v0.9.9 and v0.9.10: three in one day | 1 Oct 2026 | day 12 |
-| 9 | v0.10.0 | 2 Oct 2026 | day 13 |
-| 19 | v0.10.11, on Google Play | 13 Nov 2026 | day 55 |
+| Split | Release | Time |
+|:-:|:-|:-|
+| 1 | v0.9.2, the first one there | day&nbsp;0<br><sub>19&nbsp;Sep&nbsp;2026</sub> |
+| 6 to 8 | v0.9.8, v0.9.9 and v0.9.10: three in one day | day&nbsp;12<br><sub>1&nbsp;Oct&nbsp;2026</sub> |
+| 9 | v0.10.0 | day&nbsp;13<br><sub>2&nbsp;Oct&nbsp;2026</sub> |
+| 19 | v0.10.11, on Google Play | day&nbsp;55<br><sub>13&nbsp;Nov&nbsp;2026</sub> |
 
 **[Play it in your browser](https://abdaishere.com/polyball/play/)** · [Google Play](https://play.google.com/store/apps/details?id=com.polyball.game) · [How it's built](https://abdaishere.com/polyball/#built)
 
@@ -106,12 +106,12 @@ They live on [abdaishere.com](https://abdaishere.com), my site, my own design an
 
 | Item | Stat |
 |:-|:-|
-| `Creality K1 Max` | A box 30 cm on every side. The bat is 84 cm. |
-| `M8 steel rod` | 13 dirhams at a hardware shop. The bat's pieces sit on it. |
-| `ESP32-C6` | A 1.47-inch touchscreen, 320 by 172 pixels. It has a face. |
-| `Godot 4` | The engine under PolyBall. |
-| `CadQuery` | Printed parts are designed in code. |
-| `A ruler` | 11 mm out. See the locked trophy. |
+| <code>Creality&nbsp;K1&nbsp;Max</code> | A box 30 cm on every side. The bat is 84 cm. |
+| <code>M8&nbsp;steel&nbsp;rod</code> | 13 dirhams at a hardware shop. The bat's pieces sit on it. |
+| <code>ESP32-C6</code> | A 1.47-inch touchscreen, 320 by 172 pixels. It has a face. |
+| <code>Godot&nbsp;4</code> | The engine under PolyBall. |
+| <code>CadQuery</code> | Printed parts are designed in code. |
+| <code>A&nbsp;ruler</code> | 11 mm out. See the locked trophy. |
 
 <details>
 <summary><b>Secret level</b></summary>
