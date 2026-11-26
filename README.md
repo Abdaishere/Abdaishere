@@ -37,8 +37,8 @@
 
 ```diff
 @@ polyball @@
-+ v0.10.11 on Google Play, 13 Nov.
-+ 19 releases by then.
++ On Google Play: v0.10.11,
++ release 19, 13 Nov.
 + Browser boot freeze:
 + 9.2 s down to 5.7 s.
 + Windows build: 32 MB lighter.
