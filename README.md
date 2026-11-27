@@ -8,31 +8,43 @@
 
 <p align="center"><b>I'm Abdallah (AbdA), in Dubai. I make games, desk gadgets and 3D prints for fun.</b><br>Up there is a run of PolyBall, a rhythm game I made alone: free to play on Google Play and in your browser. Better with sound.</p>
 
-## Achievements
+## Trophies
 
-<p align="center"><b>5 of 6 unlocked.</b> Every card opens its proof. One more is hidden, and that one is for you to find.</p>
+<p align="center"><b>8 of 9 unlocked.</b> Six are here, three are in the scrap bin under them. Every card opens its proof.</p>
 
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.polyball.game"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4h-game-dark.svg"><img alt="Achievement: Made a game alone. PolyBall, a rhythm game I designed, built and released alone, free to play on Google Play and in the browser. Unlocked 13 Nov 2026. Team size: 1. Opens the Google Play listing." src="readme/ach-v4h-game-light.svg" width="380"></picture></a>
-<a href="https://abdaishere.com/polyball/#built"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4h-synth-dark.svg"><img alt="Achievement: Music with zero music files. Every note in PolyBall is synthesised while you play: 16 instruments, up to 12 notes at once, and no music files ship with the game. Opens How it&#x27;s built on the PolyBall page." src="readme/ach-v4h-synth-light.svg" width="380"></picture></a>
-<a href="https://github.com/Abdaishere/E-Jam/graphs/contributors"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4h-commits-dark.svg"><img alt="Achievement: Top committer on a team of five. E-Jam, my graduation project, a test bench for network switches: 243 commits on GitHub&#x27;s contributors graph, the next teammate 109, as of 21 Nov 2026. Opens the contributors graph." src="readme/ach-v4h-commits-light.svg" width="380"></picture></a>
-<a href="https://github.com/Abdaishere/monitor-buddy/releases/tag/v1.0.0"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4h-buddy-dark.svg"><img alt="Achievement: Monitor Buddy v1.0.0 is out, released on 21 Nov 2026. My MIT fork of IdefixRC&#x27;s Monitor-Buddy, a tiny ESP32 desk screen with a face: it chews at lunch and goes red when CI fails, and it updates over Wi-Fi with signed firmware. The base firmware, web flasher and holder are IdefixRC&#x27;s. Opens the release." src="readme/ach-v4h-buddy-light.svg" width="380"></picture></a>
-<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4h-bat-dark.svg"><img alt="Achievement: A bat bigger than the printer. An 84 cm baseball bat in red PETG from a printer whose box is 30 cm on every side, printed upright in pieces on a steel rod: 22 h 20 min of printing, 8 prints started and 5 of them stopped. Opens the write-up." src="readme/ach-v4h-bat-light.svg" width="380"></picture></a>
-<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v4h-barrel-dark.svg"><img alt="Locked achievement: Barrel in one piece. Print the bat&#x27;s barrel in one go. A jamming spool and a ruler that was 11 mm out made it three pieces. Opens the write-up." src="readme/ach-v4h-barrel-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/polyball/#built"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-synth-dark.svg"><img alt="Trophy: Music with zero music files. Every note in PolyBall, the rhythm game I made alone, is synthesised while you play: 16 instruments, up to 12 notes at once, and no music files ship with the game. Opens How it&#x27;s built on the PolyBall page." src="readme/ach-v5d-synth-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/polyball/#built:~:text=The%20browser%20build%20was%20silent"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-silent-dark.svg"><img alt="Trophy: Nobody noticed. PolyBall&#x27;s browser build was once silent, and nobody had noticed. Counting audio buffers had said everything was fine; a check that measures the real signal reaching the output caught it. The cause was an engine bug on the web export. Opens that part of How it&#x27;s built on the PolyBall page." src="readme/ach-v5d-silent-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/monitor-buddy/#:~:text=passed%20every%20test%20and%20failed%20every%20real%20lock"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-tests-dark.svg"><img alt="Trophy: Passed every test. My first screen lock detection in Monitor Buddy&#x27;s laptop helper passed every test and failed every real lock: GNOME&#x27;s own ScreenSaver.GetActive stays false when you lock with Super+Escape. Monitor Buddy is my fork of IdefixRC&#x27;s Monitor-Buddy. Opens that sentence in my write-up." src="readme/ach-v5d-tests-light.svg" width="380"></picture></a>
+<a href="https://github.com/Abdaishere/E-Jam/commits/7e70afe9d6740abc3b6a91b8c5a267fa6100cc45/Admin%20Client/e_jam_backend"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-plane-dark.svg"><img alt="Trophy: Wrote the control plane. Center Point, the control plane of E-Jam, my graduation project, a test bench for network switches made by a team of five: a REST API in Rust on Actix Web. GitHub&#x27;s history of Center Point&#x27;s folder, pinned at commit 7e70afe, has 121 commits: 114 are mine (three of them merges of Dependabot&#x27;s pull requests) and the other 7 are Dependabot&#x27;s. I also built the Flutter admin app. Opens that history." src="readme/ach-v5d-plane-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/bat/"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-bat-dark.svg"><img alt="Trophy: A bat bigger than the printer. An 84 cm baseball bat in red PETG from a printer whose box is 30 cm on every side, printed upright in pieces on a steel rod: 22 h 20 min of printing, 8 prints started and 5 of them stopped. Opens the write-up." src="readme/ach-v5d-bat-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/bat/#pieces"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-barrel-dark.svg"><img alt="Locked trophy: Barrel in one piece. Print the bat&#x27;s barrel in one go. A jamming spool and a ruler that was 11 mm out made it three pieces. Opens that part of the write-up." src="readme/ach-v5d-barrel-light.svg" width="380"></picture></a>
 </p>
+
+<div align="center">
+<details>
+<summary><b>Scrap bin</b>: 3 more, off the printer</summary>
+<br>
+<a href="https://abdaishere.com/prints/bat/#gap"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-p97-dark.svg"><img alt="Trophy: 97%. On 12 Oct 2026 one plate of bat parts got to 97%, then the coupler came off its brim and the last layers went into the air as strings. The print was paused at 08:29. The coupler was sanded flat and kept. Opens that part of the write-up." src="readme/ach-v5d-p97-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/panamera-sculpture/#print"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-supports-dark.svg"><img alt="Trophy: 44,275. That is how many support moves the slicer wanted for my Panamera sculpture, almost all of them inside the wheel arches. I redrew it so that nothing needs support. 44 slices, eight versions drawn in code. Opens that part of the write-up." src="readme/ach-v5d-supports-light.svg" width="380"></picture></a>
+<a href="https://abdaishere.com/prints/blaster/#trigger"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/ach-v5d-trigger-dark.svg"><img alt="Trophy: Fits nowhere. My first printed trigger for a toy gel blaster was thicker than the one it replaced, its pivot pin stuck out of the wrong face, and it fit nowhere. The project took 11 prints in all, and the rebuilt trigger&#x27;s outline overlaps the original&#x27;s silhouette by 91%. Opens that part of the write-up." src="readme/ach-v5d-trigger-light.svg" width="380"></picture></a>
+</details>
+</div>
+
+<p align="center"><sub>GitHub gave me <a href="https://github.com/Abdaishere?tab=achievements">three of its own</a>: Pull Shark x2, Quickdraw and YOLO. YOLO took <a href="https://github.com/Abdaishere/E-Jam/pull/21">one pull request of typo fixes in my own repo</a>, merged 3 seconds after I opened it, with zero reviews. That one was free. These were not.</sub></p>
 
 ## Patch notes
 
 ```diff
 @@ polyball @@
-+ On Google Play, 13 Nov.
-+ 19 releases in.
++ On Google Play: v0.10.11,
++ release 19, 13 Nov.
 + Browser boot freeze:
 + 9.2 s down to 5.7 s.
 + Windows build: 32 MB lighter.
 @@ monitor-buddy @@
 + v1.0.0 is out, 21 Nov.
-- Dock resets the board.
+- Dock v7 resets the board.
 + Dock v8 doesn't.
 ```
 
@@ -40,21 +52,21 @@
 
 <a href="https://abdaishere.com/polyball/play/"><img alt="PolyBall, a rhythm game I made alone. Every note you hear, you played. Live gameplay next to the home screen." src="readme/card-polyball.gif" width="100%"></a>
 
-I designed, built and released it alone. Closed source, free to play: on Google Play since 13 November 2026, and in the browser with nothing to install.
+I designed, built and released it alone. Closed source, free to play: on Google Play since November 2026, and in the browser with nothing to install.
 
 - **The band joins as your streak grows.** Bass at 2, arpeggio at 5, lead at 8. Hit Fever and the whole screen turns gold. One miss and it all stops.
 - **Bots test it.** CI on GitHub Actions across six build targets, and bots play 24 runs per pass, missing on purpose.
 - **15 languages**, with the Arabic right-to-left layout covered by tests.
 - **Leaderboard** on Supabase (PostgreSQL), with a monthly cup and anti-cheat on the server.
 
-**PolyBall, any%, 19 releases.** Splits from the [public releases page](https://github.com/Abdaishere/abdaishere.github.io/releases):
+**PolyBall, any%: 19 releases in 55 days.** Splits from the [public releases page](https://github.com/Abdaishere/abdaishere.github.io/releases):
 
-| Split | Release | Date |
+| Split | Release | Time |
 |:-:|:-|:-|
-| 1 | v0.9.2, the first one there | 19 Sep 2026 |
-| 6 to 8 | v0.9.8, v0.9.9 and v0.9.10: three in one day | 1 Oct 2026 |
-| 9 | v0.10.0 | 2 Oct 2026 |
-| 19 | v0.10.11, on Google Play | 13 Nov 2026 |
+| 1 | v0.9.2, the first one there | day&nbsp;0<br><sub>19&nbsp;Sep&nbsp;2026</sub> |
+| 6&nbsp;to&nbsp;8 | v0.9.8, v0.9.9 and v0.9.10: three in one day | day&nbsp;12<br><sub>1&nbsp;Oct&nbsp;2026</sub> |
+| 9 | v0.10.0 | day&nbsp;13<br><sub>2&nbsp;Oct&nbsp;2026</sub> |
+| 19 | v0.10.11, on Google Play | day&nbsp;55<br><sub>13&nbsp;Nov&nbsp;2026</sub> |
 
 **[Play it in your browser](https://abdaishere.com/polyball/play/)** · [Google Play](https://play.google.com/store/apps/details?id=com.polyball.game) · [How it's built](https://abdaishere.com/polyball/#built)
 
@@ -92,8 +104,14 @@ They live on [abdaishere.com](https://abdaishere.com), my site, my own design an
 
 ## Inventory
 
-**Code** `Godot` `GDScript` `C++` `Rust` `Actix Web` `Apache Kafka` `Flutter` `Dart` `Supabase` `PostgreSQL` `Python` `CadQuery` `HTML` `CSS` `JavaScript` `Docker` `GitHub Actions` `Playwright` `Linux`<br>
-**Gear** `Creality K1 Max` `ESP32-C6`
+| Item | Stat |
+|:-|:-|
+| <code>K1&nbsp;Max</code> | A box 30 cm on every side. The bat is 84 cm. |
+| <code>M8&nbsp;steel&nbsp;rod</code> | 13 dirhams at a hardware shop. The bat's pieces sit on it. |
+| <code>ESP32-C6</code> | Drives a 1.47-inch touchscreen, 320 by 172 pixels. It has a face. |
+| <code>Godot&nbsp;4</code> | The engine under PolyBall. |
+| <code>CadQuery</code> | Printed parts are designed in code. |
+| <code>A&nbsp;ruler</code> | 11 mm out. See the locked trophy. |
 
 <details>
 <summary><b>Secret level</b></summary>
@@ -117,18 +135,11 @@ M117 Done: 84 cm bat, 30 cm printer
 M84              ; motors off
 ```
 
-<img alt="Hidden achievement unlocked: Read the G-code. You found the secret level, the only hidden achievement on this page." src="readme/secret-v4e.svg" width="400">
+<img alt="Hidden trophy unlocked: Read the G-code. You found the secret level. It is not counted in the trophies above." src="readme/secret-v5d.svg" width="400">
 
 </details>
 
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdaishere/Abdaishere/output/github-snake-dark.svg">
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Abdaishere/Abdaishere/output/github-snake.svg" width="100%">
-</picture>
-
-<p align="center"><sub>My contribution graph, eaten daily by a snake. It's a GitHub Action; I just feed it commits.</sub></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/continue-dark.svg"><img alt="Continue? An arcade countdown." src="readme/continue-light.svg" width="380"></picture></p>
 
